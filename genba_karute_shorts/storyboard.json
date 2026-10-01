@@ -1,6 +1,19 @@
 {
   "title": "笑わなくなった_げんばのカルテ",
-  "voice_style_id": 84,
+  "voice": {
+    "_preset": "げんばのカルテ(VOICEVOX 剣崎雌雄 ノーマル)",
+    "style_id": 21,
+    "speed": 1.1,
+    "pitch": -0.03,
+    "intonation": 0.81,
+    "volume": 1.0,
+    "pre_silence": 0.1,
+    "post_silence": 0.1
+  },
+  "bgm": {
+    "file": "bgm.wav",
+    "gain_db": -16
+  },
   "cuts": [
     {"narration": "笑わなくなったことに、気づいていなかった。", "subtitle": "笑わなくなったことに、\n気づいていなかった。", "image": 1},
     {"narration": "ある看護師の話。", "subtitle": "ある看護師の話。", "image": 1},

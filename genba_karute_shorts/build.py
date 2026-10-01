@@ -11,8 +11,8 @@ from PIL import Image, ImageDraw, ImageFont
 from tts_vv import synthesize
 
 W, H, FPS = 1080, 1920, 30
-TAIL = 0.5          # 各カットの余韻(秒)
-END_HOLD = 1.5      # 最終カットだけ追加する余韻(秒)
+TAIL = 0.8          # 各カットの余韻(秒)
+END_HOLD = 2.0      # 最終カットだけ追加する余韻(秒)
 XFADE = 0.3         # 画像切り替えのクロスフェード(秒)
 SUB_FADE = 0.2      # 字幕のフェードイン/アウト(秒)
 NAVY = (0x0F, 0x2A, 0x3D)
@@ -40,7 +40,7 @@ def duration(path):
 
 # 1) ナレーション(カットごと)
 wavs = [build / f"line{i}.wav" for i in range(1, len(cuts) + 1)]
-synthesize([c["narration"] for c in cuts], sb["voice_style_id"], wavs)
+synthesize([c["narration"] for c in cuts], sb["voice"], wavs)
 
 # 2) 連結音声: 各カット = 音声 + 余韻の無音
 starts, durs, frames = [], [], []
@@ -111,15 +111,27 @@ for i in range(len(cuts)):
     prev = f"o{i}"
 filters.append(f"[{prev}]format=yuv420p[vout]")
 
+# 音声: ナレーションを -16 LUFS に、BGM はナレーション比 gain_db で小さく敷く
 audio_idx = base + len(cuts)
 inputs += ["-i", str(build / "voice.wav")]
+voice_chain = "loudnorm=I=-16:TP=-2:LRA=11,aresample=48000"
+bgm = sb.get("bgm")
+if bgm:
+    bgm_path = build / "bgm.wav"
+    run([sys.executable, str(root / "make_bgm.py"), f"{total:.3f}", str(bgm_path)])
+    inputs += ["-i", str(bgm_path)]
+    filters.append(f"[{audio_idx}:a]{voice_chain},aformat=channel_layouts=stereo[va]")
+    filters.append(f"[{audio_idx + 1}:a]loudnorm=I=-16:TP=-2,aresample=48000,volume={bgm['gain_db']}dB[ba]")
+    filters.append("[va][ba]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.84[aout]")
+else:
+    filters.append(f"[{audio_idx}:a]{voice_chain}[aout]")
 out = root / "outputs" / f"{sb['title']}.mp4"
 out.parent.mkdir(exist_ok=True)
 run(["ffmpeg", "-y", "-v", "error", *inputs,
      "-filter_complex", ";".join(filters),
-     "-map", "[vout]", "-map", f"{audio_idx}:a",
+     "-map", "[vout]", "-map", "[aout]",
      "-r", str(FPS), "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p",
-     "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-t", f"{total:.3f}", "-movflags", "+faststart", str(out)])
+     "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-t", f"{total:.3f}", "-movflags", "+faststart", str(out)])
 
 # タイミング表を残す(字幕・音声の検証用)
 timeline = [{"cut": i + 1, "start": round(starts[i], 3), "end": round(starts[i] + durs[i], 3),
