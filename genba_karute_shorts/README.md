@@ -61,5 +61,6 @@ python3 build.py                      # storyboard.json → outputs/<title>.mp4(
 「辞めどきの4段階チェック」を無料でお届けしています。
 今の自分がどの段階にいるか、確かめてみてください。
 ▼LINEで受け取る
-https://line.me/R/ti/p/@917mzprz
+チャンネルページの【リンク】から登録できます(ショートはコメントのリンクが押せないため)
+※PCの方はこちらからも → https://line.me/R/ti/p/@917mzprz
 ```
