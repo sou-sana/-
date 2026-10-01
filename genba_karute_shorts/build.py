@@ -1,5 +1,5 @@
 # 絵コンテ(storyboard.json)+ img1〜4.png から縦型ショート動画(1080x1920 / 30fps / H.264+AAC)を書き出す。
-# usage: python3 build.py [storyboard.json]
+# usage: python3 build.py [storyboard.json]   例: python3 build.py episodes/kanjo3_yasumi/storyboard.json
 import json
 import subprocess
 import sys
@@ -22,7 +22,9 @@ FONT_SIZE, LINE_H, PAD_Y, MAX_TEXT_W = 60, 90, 48, 940
 BAND_CENTER_Y = 1540  # 画面下〜中央下(人物の足元 y≈1330 より下、Shorts下部UIより上)
 
 root = Path(__file__).parent
-sb = json.loads((root / (sys.argv[1] if len(sys.argv) > 1 else "storyboard.json")).read_text())
+sb_path = root / (sys.argv[1] if len(sys.argv) > 1 else "storyboard.json")
+sb = json.loads(sb_path.read_text())
+img_dir = sb_path.parent  # img1〜4.png は storyboard.json と同じフォルダから読む
 build = root / "build"
 build.mkdir(exist_ok=True)
 cuts = sb["cuts"]
@@ -92,7 +94,7 @@ n = len(segs)
 for k, (img, s, e) in enumerate(segs):
     # 切り替え点を中心に XFADE 秒重ねるため、前後に半分ずつ延長
     length = (e - s) + (XFADE / 2 if k > 0 else 0) + (XFADE / 2 if k < n - 1 else 0)
-    inputs += ["-loop", "1", "-framerate", str(FPS), "-t", f"{length:.3f}", "-i", str(root / f"img{img}.png")]
+    inputs += ["-loop", "1", "-framerate", str(FPS), "-t", f"{length:.3f}", "-i", str(img_dir / f"img{img}.png")]
     filters.append(f"[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,format=yuv420p[s{k}]")
 prev = "s0"
 for k in range(1, n):

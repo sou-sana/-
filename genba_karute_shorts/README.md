@@ -14,6 +14,29 @@ python3 build.py                      # storyboard.json → outputs/<title>.mp4(
 
 他の回を作るときは `storyboard.json`(ナレーション・字幕・画像番号)と `img1.png`〜`img4.png` を差し替えて `python3 build.py` を実行する。画像は1080×1920にcover配置されるので、縦長ならサイズは問わない。
 
+## 差し替え集(episodes/)
+
+`episodes/<回>/` に、1本分の `storyboard.json`・`img1〜4.svg/png`・`投稿用テキスト.txt`(題名/概要欄/固定コメント)・`timeline.json` が入っている。完成動画は `outputs/` に出力される。
+
+| フォルダ | 完成動画(outputs/) | 尺 |
+|---|---|---|
+| kanjo3_yasumi | 休みの日に何もする気が起きなかった_げんばのカルテ.mp4 | 33.8秒 |
+| kanjo4_namida | 些細なことで涙が出るようになった_げんばのカルテ.mp4 | 33.9秒 |
+| kanjo5_ajike | 好きだったものが味気なく感じるようになった_げんばのカルテ.mp4 | 34.1秒 |
+| tenshoku1_erabikata | 転職サイトは選び方で9割決まる_げんばのカルテ.mp4 | 44.1秒 |
+| tenshoku2_yakin_nashi | 夜勤なしを本当に叶える看護師がやっていること_げんばのカルテ.mp4 | 37.2秒 |
+| tenshoku3_koukai | 転職で後悔する看護師のたった1つの共通点_げんばのカルテ.mp4 | 39.8秒 |
+| fukugyo1_tsugi_no_michi | 夜勤に疲れた看護師の次の道_げんばのカルテ.mp4 | 37.9秒 |
+| fukugyo2_artmake | アートメイク看護師のリアル_げんばのカルテ.mp4 | 35.9秒 |
+
+```sh
+python3 episode_images.py kanjo3_yasumi            # img1〜4.svg を描く(省略で全回)
+./render.sh episodes/kanjo3_yasumi                 # → img1〜4.png
+python3 build.py episodes/kanjo3_yasumi/storyboard.json
+```
+
+`build.py` は `storyboard.json` と同じフォルダの `img1〜4.png` を使う。画像はプロンプトの方針に沿って `episode_images.py` が描いたSVGイラストで、Canva等で生成した画像に差し替える場合は同名のPNGを置いて `build.py` だけを再実行する。
+
 ## 仕様(build.py)
 
 - カット尺 = ナレーション長 + 0.8秒(最終カットのみ +2.0秒の余韻を追加)
