@@ -1,0 +1,56 @@
+name: 除雪機ネット在庫チェック
+
+on:
+  schedule:
+    - cron: "7 23 * * *"  # 毎朝 8:07 JST（GitHub側の混雑で数十分遅れることがあります）
+  workflow_dispatch:       # Actions画面から手動実行もできる
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: josetsuki-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -q requests beautifulsoup4
+
+      - name: 在庫を取得して前回と比較
+        id: run
+        run: |
+          set +e
+          python josetsuki_monitor/monitor.py
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          # 10=変化あり, 0=変化なし。それ以外は失敗としてジョブを赤にする（GitHubからメールが届く）
+          if [ "$code" -ne 0 ] && [ "$code" -ne 10 ]; then exit "$code"; fi
+
+      - name: 変化があればIssueで通知
+        if: steps.run.outputs.code == '10'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          printf '\n@%s\n' "${{ github.repository_owner }}" >> josetsuki_monitor/report.md
+          gh issue create \
+            --title "除雪機ネット在庫変化 $(TZ=Asia/Tokyo date +%Y-%m-%d)" \
+            --body-file josetsuki_monitor/report.md
+
+      - name: 今回の状態を保存
+        if: steps.run.outputs.code == '10'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add josetsuki_monitor/state.json
+          git commit -m "在庫チェック: 状態を更新"
+          git push
