@@ -1,0 +1,71 @@
+げんばのカルテ 本編2 ― スタイルA(表情ありの半リアル)画像プロンプト 12枚
+
+【作り方】
+・どのAIサイトでも、縦横比は「16:9(横長)」を選ぶ(選べないサイトは横長で作ればOK。中央を使うので多少ずれても大丈夫)
+・プロンプトは英語のまま、1枚ずつ丸ごと貼る
+・できた画像に文字・ロゴが入っていたら作り直す
+・保存名は番号どおり(01.png / 02.jpg など。png・jpg・webpのどれでも可)。12枚そろったら、まとめてこの会話に送る
+・同じ人物の場面(①②⑬⑰、⑤⑥、⑧⑨)は、サイトに「参照画像」機能があれば、最初の1枚を参照にすると顔がそろう
+
+──────────────────────────────
+01(S1 導入:ナースステーションの隅で立ち止まる)
+──────────────────────────────
+A Japanese female nurse in her late 20s with dark hair tied back, wearing light blue scrubs, standing still and looking down in the corner of a busy hospital nurses' station, other blurred figures rushing past her, she alone is frozen in time. Semi-realistic painterly illustration, visible but restrained facial expression (downcast tired eyes, subtle sorrow, no tears, no drama), white and soft blue and muted green palette, soft cinematic diffused light, quiet lonely mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+02(S2 共感:更衣室のベンチに座り込む)※01と同じ人物
+──────────────────────────────
+The same Japanese female nurse in her late 20s with dark hair tied back, in light blue scrubs, sitting alone on a bench in a hospital locker room, hands on her knees, shoulders dropped, downcast weary profile, soft light from a small window. Semi-realistic painterly illustration, visible but restrained facial expression (tired eyes, subtle sorrow, no tears), white and soft blue and muted green palette, quiet exhausted mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+05(S4-特徴① 心身の限界:深夜、眠れない)
+──────────────────────────────
+A Japanese woman in her early 30s, a nurse, lying awake in bed at night in pajamas, eyes open staring at the ceiling, exhausted sleepless expression, a bedside clock showing late night, dim blue night light. Semi-realistic painterly illustration, restrained tired sorrowful face (no tears), white and soft blue and muted green palette, quiet heavy mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+06(S4-特徴① 心身の限界:朝、起き上がれない)※05と同じ人物
+──────────────────────────────
+The same Japanese woman in her early 30s in pajamas, sitting on the edge of her bed in the morning unable to get up, blank weary profile, bright window behind her, soft morning light. Semi-realistic painterly illustration, restrained numb tired expression (no tears), white and soft blue and muted green palette, quiet numb mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+07(S4-特徴② 人間関係:言いかけてやめる)
+──────────────────────────────
+A Japanese female nurse in her 40s with short dark hair, in a white nurse uniform, a hand near her mouth, about to speak but holding back, hesitant anxious expression, a blurred group of colleagues behind her in a hospital corridor. Semi-realistic painterly illustration, restrained hesitant face (no tears), white and soft blue and muted green palette, soft light, quiet hesitant mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+08(S4-特徴③ 責任感:抱えきれない書類)
+──────────────────────────────
+A Japanese male nurse in his 30s in light green scrubs, struggling to carry too many files and folders in both arms, barely holding on, earnest strained determined face, symbolizing overwhelming responsibility, hospital background softly blurred. Semi-realistic painterly illustration, restrained strained expression (no tears), white and soft blue and muted green palette, soft light, quiet straining mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+09(S4-特徴③ 責任感:夜の廊下に一人残る)※08と同じ人物
+──────────────────────────────
+The same Japanese male nurse in his 30s in light green scrubs, still working alone at a medical cart in an empty hospital corridor at night, everyone else gone, serious tired profile, a small figure in a large dim space. Semi-realistic painterly illustration, restrained devoted weary expression (no tears), white and soft blue and muted green palette, dim night light, quiet devoted lonely mood, shallow depth of field, lots of negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+10(S4-特徴④ 新人:理想と現実のギャップ)
+──────────────────────────────
+A young Japanese new-graduate nurse in her early 20s in a brand-new clean white uniform, looking down, disillusioned sad young face, a large heavy shadow stretching at her feet, bright hospital hallway. Semi-realistic painterly illustration, restrained disappointed expression (no tears), white and soft blue and muted green palette, soft light, quiet disillusioned mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+11(S4-特徴⑤ 引き止め:また面談室の前に)
+──────────────────────────────
+A Japanese female nurse in her late 30s with a ponytail, in light green scrubs, standing again in front of a closed meeting room door in a hospital, weary resigned face, a faint circular looping path on the floor showing endless negotiation. Semi-realistic painterly illustration, restrained exhausted expression (no tears), white and soft blue and muted green palette, soft light, quiet weary mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+12(S4-特徴⑥ 妨害:受け取られない退職届)
+──────────────────────────────
+A Japanese female nurse in her 50s with short hair streaked with gray, in a white nurse uniform, holding out a plain white envelope across an office desk, but nobody takes it, her hand left hanging in the air, helpless troubled face. Semi-realistic painterly illustration, restrained helpless expression (no tears), white and soft blue and muted green palette, soft light, quiet helpless mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos, nothing written on the envelope
+
+──────────────────────────────
+13(S5 退職は権利:肩の荷を下ろす)※01と同じ人物
+──────────────────────────────
+The same Japanese female nurse in her late 20s with dark hair tied back, in light blue scrubs, gently setting down a heavy bag from her shoulder onto the floor, a small relieved softening expression, warm soft light beginning to shine on her face from a window. Semi-realistic painterly illustration, restrained gentle relief (no tears), white and soft blue and muted green palette, quiet relieving mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+17(S9 締め:朝の窓辺)※01と同じ人物
+──────────────────────────────
+The same Japanese female nurse in her late 20s with dark hair down, in casual clothes, standing by a window in the morning looking outside, calm relaxed profile with a faint sense of hope, shoulders relaxed, warm morning light. Semi-realistic painterly illustration, restrained calm hopeful expression (no tears), white and soft blue and muted green palette, quiet hopeful mood, shallow depth of field, lots of negative space, 16:9 horizontal composition, no text, no letters, no logos
+
+──────────────────────────────
+※ 03・04・14・15・16(構造・仕組みの場面)は指示書どおり顔なしフラットのまま。18はエンドカード。作り直し不要。

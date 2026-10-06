@@ -138,12 +138,22 @@ img.save(build / "endcard.png")
 subs.append((build / "endcard.png", 0, 640, narr_end + 0.6, end["seconds"] - 0.6))
 
 # 5) ffmpeg 合成
+def image_path(num):
+    """images_a/NN.(png|jpg|jpeg|webp) があればそれを優先(他サイトで作った半リアル画像)、なければフラット版。"""
+    for ext in ("png", "jpg", "jpeg", "webp", "PNG", "JPG", "JPEG", "WEBP"):
+        p = root / "images_a" / f"{num:02d}.{ext}"
+        if p.exists():
+            return p
+    return root / f"img{num:02d}.png"
+
+
 inputs, filters = [], []
 n = len(shots)
 for k, (img, a, b) in enumerate(shots):
     length = (b - a) + (XFADE / 2 if k > 0 else 0) + (XFADE / 2 if k < n - 1 else 0)
     frames = int(round(length * FPS))
-    inputs += ["-i", str(root / f"img{img:02d}.png")]
+    inputs += ["-i", str(image_path(img))]
+    print("image", img, "->", image_path(img).name)
     filters.append(
         f"[{k}:v]scale={W * 2}:{H * 2}:force_original_aspect_ratio=increase,crop={W * 2}:{H * 2},"
         f"zoompan=z='1+{ZOOM}*on/{frames}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS},"
