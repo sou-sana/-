@@ -1,4 +1,4 @@
-げんばのカルテ 本編2 ― スタイルA(表情ありの半リアル)画像プロンプト 12枚
+げんばのカルテ 本編2 ― スタイルA(表情ありの半リアル)画像プロンプト 12枚(うち01・02はCanva作成済み)
 
 【作り方】
 ・どのAIサイトでも、縦横比は「16:9(横長)」を選ぶ(選べないサイトは横長で作ればOK。中央を使うので多少ずれても大丈夫)
@@ -6,16 +6,18 @@
 ・できた画像に文字・ロゴが入っていたら作り直す
 ・保存名は番号どおり(01.png / 02.jpg など。png・jpg・webpのどれでも可)。12枚そろったら、まとめてこの会話に送る
 ・同じ人物の場面(①②⑬⑰、⑤⑥、⑧⑨)は、サイトに「参照画像」機能があれば、最初の1枚を参照にすると顔がそろう
+・01・02(と構造図の03・04)はCanvaで作成済み → Canvaからダウンロードして 01〜04 の名前で送る。新しく作るのは05〜13・17の10枚
+・⑬⑰は主人公(01の人物)。Canvaの01をダウンロードして参照画像に使うのがおすすめ
 
 ──────────────────────────────
-01(S1 導入:ナースステーションの隅で立ち止まる)
+01(S1 導入:ナースステーションの隅で立ち止まる)【Canvaで作成済み・作り直し不要】
 ──────────────────────────────
-A Japanese female nurse in her late 20s with dark hair tied back, wearing light blue scrubs, standing still and looking down in the corner of a busy hospital nurses' station, other blurred figures rushing past her, she alone is frozen in time. Semi-realistic painterly illustration, visible but restrained facial expression (downcast tired eyes, subtle sorrow, no tears, no drama), white and soft blue and muted green palette, soft cinematic diffused light, quiet lonely mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+A Japanese female nurse in her late 20s with dark hair tied back in a low bun, wearing a white nurse uniform, standing still and looking down in the corner of a busy hospital nurses' station, other blurred figures rushing past her, she alone is frozen in time. Semi-realistic painterly illustration, visible but restrained facial expression (downcast tired eyes, subtle sorrow, no tears, no drama), white and soft blue and muted green palette, soft cinematic diffused light, quiet lonely mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
 
 ──────────────────────────────
-02(S2 共感:更衣室のベンチに座り込む)※01と同じ人物
+02(S2 共感:更衣室のベンチに座り込む)【Canvaで作成済み・作り直し不要】
 ──────────────────────────────
-The same Japanese female nurse in her late 20s with dark hair tied back, in light blue scrubs, sitting alone on a bench in a hospital locker room, hands on her knees, shoulders dropped, downcast weary profile, soft light from a small window. Semi-realistic painterly illustration, visible but restrained facial expression (tired eyes, subtle sorrow, no tears), white and soft blue and muted green palette, quiet exhausted mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+The same Japanese female nurse in her late 20s with dark hair tied back in a low bun, in a white nurse uniform, sitting alone on a bench in a hospital locker room, hands on her knees, shoulders dropped, downcast weary profile, soft light from a small window. Semi-realistic painterly illustration, visible but restrained facial expression (tired eyes, subtle sorrow, no tears), white and soft blue and muted green palette, quiet exhausted mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
 
 ──────────────────────────────
 05(S4-特徴① 心身の限界:深夜、眠れない)
@@ -60,7 +62,7 @@ A Japanese female nurse in her 50s with short hair streaked with gray, in a whit
 ──────────────────────────────
 13(S5 退職は権利:肩の荷を下ろす)※01と同じ人物
 ──────────────────────────────
-The same Japanese female nurse in her late 20s with dark hair tied back, in light blue scrubs, gently setting down a heavy bag from her shoulder onto the floor, a small relieved softening expression, warm soft light beginning to shine on her face from a window. Semi-realistic painterly illustration, restrained gentle relief (no tears), white and soft blue and muted green palette, quiet relieving mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
+The same Japanese female nurse in her late 20s with dark hair tied back in a low bun, in a white nurse uniform, gently setting down a heavy bag from her shoulder onto the floor, a small relieved softening expression, warm soft light beginning to shine on her face from a window. Semi-realistic painterly illustration, restrained gentle relief (no tears), white and soft blue and muted green palette, quiet relieving mood, shallow depth of field, negative space, 16:9 horizontal composition, no text, no letters, no logos
 
 ──────────────────────────────
 17(S9 締め:朝の窓辺)※01と同じ人物
