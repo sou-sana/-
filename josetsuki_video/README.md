@@ -30,10 +30,10 @@ python3 make_thumbnail.py                  # 横動画のサムネイル → out
 ※この動画にはアフィリエイト広告(PR)を含みます。
 
 ▼3機種の詳しい比較(販売ページへのリンクあり)
-(70cm比較記事のURL)
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430?utm_source=youtube&utm_medium=video&utm_campaign=70cm
 
 ▼最新の在庫・価格まとめ
-(在庫まとめ記事のURL)
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159?utm_source=youtube&utm_medium=video&utm_campaign=70cm
 
 価格・在庫は2026年10月5日時点で除雪機ネットに掲載されていた情報です。購入前に販売ページで最新情報をご確認ください。
 
@@ -58,4 +58,7 @@ python3 make_thumbnail.py                  # 横動画のサムネイル → out
 音声:VOICEVOX:剣崎雌雄
 #除雪機 #北海道 #除雪
 ```
+概要欄のリンク末尾の `?utm_source=...` は、YouTube経由の訪問をGoogleアナリティクスで見分けるための目印。
+在庫まとめのURLは投稿日時(10/5 21:01:59)からの推定なので、実際のURLと一致するか確認する。
+
 投稿順: 横動画 → ショート(ショートの「関連動画」に横動画を設定)
