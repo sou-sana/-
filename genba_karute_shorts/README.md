@@ -28,12 +28,24 @@ python3 build.py                      # storyboard.json → outputs/<title>.mp4(
 | tenshoku3_koukai | 転職で後悔する看護師のたった1つの共通点_げんばのカルテ.mp4 | 39.8秒 |
 | fukugyo1_tsugi_no_michi | 夜勤に疲れた看護師の次の道_げんばのカルテ.mp4 | 37.9秒 |
 | fukugyo2_artmake | アートメイク看護師のリアル_げんばのカルテ.mp4 | 35.9秒 |
+| bridge_a_taishokutodoke(橋渡しA) | 退職届を書いては消していた_げんばのカルテ.mp4 | 36.6秒 |
+| bridge_b_kuchiguse(橋渡しB) | 私が辞めたら回らないが口癖になっていた_げんばのカルテ.mp4 | 37.9秒 |
+
+橋渡しA/Bは公開後、YouTube Studioで「関連動画」=本編長尺「"あなたが抜けたら回らない"は…」を設定する(`投稿用テキスト.txt` 末尾にも記載)。
 
 ```sh
 python3 episode_images.py kanjo3_yasumi            # img1〜4.svg を描く(省略で全回)
 ./render.sh episodes/kanjo3_yasumi                 # → img1〜4.png
 python3 build.py episodes/kanjo3_yasumi/storyboard.json
 ```
+
+### Gemini などで作った画像に差し替える
+
+1. 生成時に「縦長 9:16」を指定する。違う比率でも中央で切り抜かれて1080×1920になるが、端が切れる。
+2. 主役は画面の上〜中央に置く。下の y≈1360〜1720(画面の下から約1/4)は字幕帯で隠れる。
+3. `episodes/<回>/img1.png`〜`img4.png` に同名で上書きし、`python3 build.py episodes/<回>/storyboard.json` を実行する。
+
+ナレーションの読み間違いは `storyboard.json` の `narration` だけをひらがなにすると直る(字幕は `subtitle` なので影響しない)。例: 橋渡しAの「師長」は「もろなが」と読まれるため「しちょう」と書いている。
 
 `build.py` は `storyboard.json` と同じフォルダの `img1〜4.png` を使う。画像はプロンプトの方針に沿って `episode_images.py` が描いたSVGイラストで、Canva等で生成した画像に差し替える場合は同名のPNGを置いて `build.py` だけを再実行する。
 

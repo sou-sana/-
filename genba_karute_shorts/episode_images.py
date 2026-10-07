@@ -2,6 +2,7 @@
 # (輪郭線のみ・顔なし・白/青/緑の淡い配色・文字なし・主役は字幕帯 y≈1300 より上)。
 # usage: python3 episode_images.py [slug ...]   → episodes/<slug>/img1〜4.svg(続けて ./render.sh episodes/<slug>)
 import math
+import re
 import sys
 from pathlib import Path
 
@@ -743,6 +744,151 @@ def s2_4():
     return svg(b, bg)
 
 
+# =====================================================================
+# 橋渡しA 退職届を、書いては消していた
+# =====================================================================
+def back_view(fig):
+    """standing() の V ネックを消して後ろ姿にする。"""
+    return re.sub(r'<path d="M[^"]*" fill="none" stroke="#2B4A5E" stroke-width="5\.6[0-9]*" stroke-linecap="round"/>', "", fig)
+
+
+def gear(cx, cy, r, teeth=10, fill="#D6E8E8"):
+    pts = []
+    for k in range(teeth * 4):
+        a = 2 * math.pi * k / (teeth * 4)
+        rr = r if (k % 4) in (1, 2) else r * 0.84
+        pts.append(f"{cx + math.cos(a) * rr:.1f},{cy + math.sin(a) * rr:.1f}")
+    return (f'<path d="M{" L".join(pts)} Z" fill="{fill}" stroke="{INK}" stroke-width="{LINE}" stroke-linejoin="round"/>'
+            + circ(cx, cy, r * 0.32, "#F3F8F8") + circ(cx, cy, r * 0.12, "#C6DCDC", LINE * 0.8))
+
+
+def bundle(cx, cy, w, h, inner=""):
+    """風呂敷包みの大きな荷物(中心 cx,cy)。"""
+    return (shape(f"M{cx - w / 2},{cy} q0,{-h / 2} {w / 2},{-h / 2} q{w / 2},0 {w / 2},{h / 2} q0,{h / 2} {-w / 2},{h / 2} "
+                  f"q{-w / 2},0 {-w / 2},{-h / 2} z", fill="#CFE3E1") + inner
+            + shape(f"M{cx - 50},{cy - h / 2 + 10} q50,-70 100,0 q-50,30 -100,0 z", fill="#BCD7D4"))
+
+
+def a_1():  # スマホの下書きフォルダ(手元のアップ)
+    bg = calm_room("#F2F7F8", "#E4EEF0", "#D9E6E8")
+    b = glow("ph", 540, 700, 460, "#EFFFFF", 0.7)
+    # 袖と手(左右から)
+    b += limb([(60, 1330), (250, 1000)], 150, SCRUB) + limb([(1020, 1330), (830, 1000)], 150, SCRUB)
+    b += limb([(250, 1000), (330, 860)], 110, SKIN) + limb([(830, 1000), (750, 860)], 110, SKIN)
+    # スマホ
+    px, py, pw, ph = 330, 240, 420, 820
+    b += box(px, py, pw, ph, "#2F4B5C", 46) + box(px + 22, py + 60, pw - 44, ph - 120, "#F7FBFC", 18, LINE * 0.6)
+    b += box(px + pw / 2 - 40, py + 26, 80, 14, "#4F6B7B", 7, 0)
+    b += ln(px + 60, py + 120, px + 200, py + 120, 12, SOFT)
+    for k in range(5):
+        y = py + 180 + k * 120
+        b += box(px + 50, y, pw - 100, 96, "#FFFFFF" if k else "#EAF5F4", 12, LINE * 0.6)
+        ex, ey = px + 80, y + 26
+        b += shape(f"M{ex},{ey} h56 v40 h-56 z", fill="#E6EFF6", sw=LINE * 0.6)
+        b += f'<path d="M{ex},{ey} l28,22 l28,-22" fill="none" stroke="{INK}" stroke-width="{LINE * 0.6}" stroke-linejoin="round"/>'
+        b += ln(ex + 84, ey + 8, px + pw - 80, ey + 8, 8, SOFT) + ln(ex + 84, ey + 34, px + pw - 140, ey + 34, 8, SOFT)
+    # 親指(画面の手前)
+    b += limb([(330, 880), (420, 800)], 46, SKIN) + limb([(750, 880), (660, 800)], 46, SKIN)
+    return svg(b, bg)
+
+
+def a_2():  # 師長の前で言葉を飲み込む
+    bg = calm_room("#F4F8F8", "#E5EFEF", "#D9E7E7")
+    b = window(620, 260, 320, 380, "#E2F1F4", '<path d="M620,540 q90,-70 160,-10 q80,-50 160,10 v100 h-320 z" fill="#CFE6DD"/>')
+    b += box(140, 300, 260, 180, CARD) + ln(170, 350, 370, 350, 9, SOFT) + ln(170, 390, 320, 390, 9, SOFT)
+    b += ground_shadow(770, 1296, 120)
+    b += standing(770, 1290, 1.12, top="#BFD6DD", bottom="#A9C2CB", head_tilt=-6)  # 師長(背が高く、動かない)
+    x, fy, s = 360, 1290, 0.98
+    b += ground_shadow(x, 1296)
+    b += standing(x, fy, s, droop=0.8, head_drop=18, head_tilt=8, arms="none")
+    b += limb([(x + 68 * s, fy - 536 * s), (x + 80 * s, fy - 420 * s), (x + 80 * s, fy - 300 * s)], 34 * s)
+    b += limb([(x - 66 * s, fy - 530 * s), (x - 70 * s, fy - 450 * s), (x - 6 * s, fy - 598 * s)], 34 * s)  # 口元に手
+    # 飲み込んだ言葉(うすく消えていく吹き出し)
+    b += f'<g opacity=".45"><path d="M470,470 q0,-50 60,-50 h90 q60,0 60,50 q0,50 -60,50 h-70 l-40,30 l6,-34 q-46,-6 -46,-46 z" fill="#FFFFFF" stroke="{INK}" stroke-width="{LINE * 0.7}" stroke-dasharray="6 12"/></g>'
+    return svg(b, bg)
+
+
+def a_3():  # 一人で大きな歯車を支える
+    bg = calm_room("#F4F9F9", "#E6F0F0", "#D9E7E7")
+    b = f'<g opacity=".5">{gear(220, 300, 90, 8, "#E3EEEE")}{gear(880, 330, 110, 9, "#E3EEEE")}</g>'
+    b += gear(540, 380, 250, 12)
+    x, fy, s = 540, 1290, 0.85
+    b += limb([(x - 68 * s, fy - 536 * s), (x - 130 * s, fy - 650 * s), (x - 70, 650)], 34 * s, SCRUB)
+    b += limb([(x + 68 * s, fy - 536 * s), (x + 130 * s, fy - 650 * s), (x + 70, 650)], 34 * s, SCRUB)
+    b += ground_shadow(x, 1296)
+    b += standing(x, fy, s, droop=0.3, head_drop=10, arms="none")
+    b += f'<path d="M{x - 190},{820} q-20,-30 0,-60 M{x + 190},{820} q20,-30 0,-60" fill="none" stroke="{SOFT}" stroke-width="6" stroke-linecap="round"/>'
+    return svg(b, bg)
+
+
+def a_4():  # 肩の荷を下ろしかける後ろ姿
+    bg = calm_room("#F7FBF9", "#EAF3F1", "#DCEBEA")
+    b = glow("dawn", 540, 420, 420, "#FFF3D2", 0.65)
+    b += window(330, 220, 420, 520, "#EEF7F8", '<path d="M330,620 q110,-90 210,-20 q110,-70 210,10 v130 h-420 z" fill="#CFE6DD"/>')
+    x, fy, s = 520, 1290, 1.08
+    b += ground_shadow(x, 1296, 140)
+    b += back_view(standing(x, fy, s, droop=0.4, head_drop=-4, arms="none"))
+    b += limb([(x - 68 * s, fy - 536 * s), (x - 80 * s, fy - 420 * s), (x - 80 * s, fy - 300 * s)], 34 * s)
+    # 右肩からずり下ろすカバン
+    b += f'<path d="M{x + 60 * s},{fy - 560 * s} Q{x + 160},{fy - 520} {x + 200},{fy - 330}" fill="none" stroke="{INK}" stroke-width="{LINE * 1.4}" stroke-linecap="round"/>'
+    b += limb([(x + 68 * s, fy - 536 * s), (x + 130 * s, fy - 430 * s), (x + 190, fy - 330)], 34 * s)
+    b += shape(f"M{x + 120},{fy - 330} h170 l-14,190 h-142 z", fill="#C8DCDF")
+    b += sparkle(760, 520, 18) + sparkle(300, 640, 14)
+    return svg(b, bg)
+
+
+# =====================================================================
+# 橋渡しB "私が辞めたら、回らない"が口癖になっていた
+# =====================================================================
+def b_1():  # 休日の部屋でシフト表を見つめてしまう
+    bg = calm_room("#F5F9F8", "#E7F0EF", "#DAE8E7")
+    b = calendar(520, 330, 5, 4, 96, "smsssmssmsssmssmssss")
+    b += plant(140, 960, 0.7)
+    b += sofa(100, 1040, 760)
+    b += seated(330, 1040, 1.0, top="#F1E8DE", bottom="#C4D4DF", arms="lap", head_drop=-26, head_tilt=-14)
+    return svg(b, bg)
+
+
+def b_2():  # 「辞めたい」を飲み込んで笑う
+    bg = calm_room("#F4FAFA", "#E4F1F1", "#D6E9E8")
+    b = shape("M80,880 h920 v40 h-920 z", fill="#E3EEF0") + shape("M100,920 h880 v330 h-880 z", fill="#EEF4F5")
+    b += box(700, 720, 200, 150, "#DCEBEA", 8) + ln(730, 770, 860, 770, 8, SOFT)
+    b += f'<g opacity=".32">{standing(180, 1290, 0.9, top="#FFFFFF", bottom="#FFFFFF")}{standing(880, 1290, 0.9, top="#FFFFFF", bottom="#FFFFFF")}</g>'
+    x, fy, s = 520, 1290, 1.04
+    b += ground_shadow(x, 1296)
+    b += standing(x, fy, s, droop=0.6, head_drop=4, head_tilt=12, arms="none")
+    b += limb([(x - 66 * s, fy - 530 * s), (x - 80 * s, fy - 420 * s), (x - 6, fy - 380 * s)], 34 * s)
+    b += limb([(x + 66 * s, fy - 530 * s), (x + 80 * s, fy - 420 * s), (x + 6, fy - 380 * s)], 34 * s)  # 前で手を組む
+    b += f'<g opacity=".4"><path d="M600,470 q0,-44 54,-44 h70 q54,0 54,44 q0,44 -54,44 h-54 l-34,28 l4,-30 q-40,-6 -40,-42 z" fill="#FFFFFF" stroke="{INK}" stroke-width="{LINE * 0.7}" stroke-dasharray="6 12"/></g>'
+    return svg(b, bg)
+
+
+def b_3():  # 職場全体を一人で背負う
+    bg = calm_room("#F2F7F8", "#E3EEF0", "#D6E3E5")
+    inner = hospital(540, 600, 0.9, "#EEF4F5") + f'<g opacity=".8">{pair(330, 600, 0.5)}{pair(750, 600, 0.5)}</g>'
+    b = bundle(540, 430, 720, 480, inner)
+    x, fy, s = 540, 1290, 0.82
+    b += limb([(x - 68 * s, fy - 536 * s), (x - 140 * s, fy - 640 * s), (x - 90, 676)], 34 * s, SCRUB)
+    b += limb([(x + 68 * s, fy - 536 * s), (x + 140 * s, fy - 640 * s), (x + 90, 676)], 34 * s, SCRUB)
+    b += ground_shadow(x, 1296)
+    b += standing(x, fy, s, droop=0.9, head_drop=26, arms="none")
+    return svg(b, bg)
+
+
+def b_4():  # 荷物をそっと地面に置く後ろ姿
+    bg = bg_room("#FBFCF6", "#EEF6F0", "#DCEDE3", 1300)
+    b = glow("light", 540, 400, 480, "#FFF1C8", 0.7) + sun(540, 330, 54)
+    b += f'<path d="M0,820 q260,-90 540,-40 q280,-50 540,40 v40 h-1080 z" fill="#CFE6DD"/>'
+    b += bundle(800, 1170, 320, 240, hospital(800, 1230, 0.42, "#EEF4F5"))
+    x, fy, s = 450, 1290, 1.06
+    b += ground_shadow(x, 1296, 120) + ground_shadow(800, 1296, 170)
+    b += back_view(standing(x, fy, s, droop=0.0, head_drop=-8, arms="none"))
+    b += limb([(x - 68 * s, fy - 536 * s), (x - 80 * s, fy - 420 * s), (x - 80 * s, fy - 300 * s)], 34 * s)
+    b += limb([(x + 68 * s, fy - 536 * s), (x + 150 * s, fy - 430 * s), (650, 1080)], 34 * s)
+    b += sparkle(300, 560, 18) + sparkle(760, 640, 14) + sparkle(900, 480, 20)
+    return svg(b, bg)
+
+
 EPISODES = {
     "kanjo3_yasumi": [k3_1, k3_2, k3_3, k3_4],
     "kanjo4_namida": [k4_1, k4_2, k4_3, k4_4],
@@ -752,6 +898,8 @@ EPISODES = {
     "tenshoku3_koukai": [t3_1, t3_2, t3_3, t3_4],
     "fukugyo1_tsugi_no_michi": [f1_1, f1_2, f1_3, f1_4],
     "fukugyo2_artmake": [s2_1, s2_2, s2_3, s2_4],
+    "bridge_a_taishokutodoke": [a_1, a_2, a_3, a_4],
+    "bridge_b_kuchiguse": [b_1, b_2, b_3, b_4],
 }
 
 if __name__ == "__main__":

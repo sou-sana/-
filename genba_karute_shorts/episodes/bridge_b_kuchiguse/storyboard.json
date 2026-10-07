@@ -1,0 +1,27 @@
+{
+  "title": "私が辞めたら回らないが口癖になっていた_げんばのカルテ",
+  "voice": {
+    "_preset": "げんばのカルテ(VOICEVOX 剣崎雌雄 ノーマル)",
+    "style_id": 21,
+    "speed": 1.1,
+    "pitch": -0.03,
+    "intonation": 0.81,
+    "volume": 1.0,
+    "pre_silence": 0.1,
+    "post_silence": 0.1
+  },
+  "bgm": {
+    "file": "bgm.wav",
+    "gain_db": -16
+  },
+  "cuts": [
+    {"narration": "「私が辞めたら、回らない」。いつからか、それが口癖になっていた。", "subtitle": "それが、口癖に", "image": 1},
+    {"narration": "人手が足りないのは、自分のせいじゃない。頭では、分かっている。", "subtitle": "自分のせいじゃない", "image": 1},
+    {"narration": "なのに、休みの日まで、職場のシフトを数えている。", "subtitle": "休みの日まで、数えて", "image": 1},
+    {"narration": "「辞めたい」と言えずに、今日もまた、笑ってしまった。", "subtitle": "言えずに、笑う", "image": 2},
+    {"narration": "でも、\"あなたが抜けたら回らない\"は、職場が考えることだ。", "subtitle": "職場が、考えること", "image": 3},
+    {"narration": "それは、あなた一人が背負う言葉じゃない。", "subtitle": "あなたが背負う言葉じゃない", "image": 3},
+    {"narration": "抱えてきたものを、そろそろ、下ろしていい。", "subtitle": "下ろしていい", "image": 4},
+    {"narration": "――その\"下ろし方\"は、本編で。", "subtitle": "続きは、本編で", "image": 4}
+  ]
+}

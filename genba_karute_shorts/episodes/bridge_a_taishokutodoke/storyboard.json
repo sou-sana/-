@@ -1,0 +1,27 @@
+{
+  "title": "退職届を書いては消していた_げんばのカルテ",
+  "voice": {
+    "_preset": "げんばのカルテ(VOICEVOX 剣崎雌雄 ノーマル)",
+    "style_id": 21,
+    "speed": 1.1,
+    "pitch": -0.03,
+    "intonation": 0.81,
+    "volume": 1.0,
+    "pre_silence": 0.1,
+    "post_silence": 0.1
+  },
+  "bgm": {
+    "file": "bgm.wav",
+    "gain_db": -16
+  },
+  "cuts": [
+    {"narration": "退職届を、書いては消していた。", "subtitle": "書いては、消していた", "image": 1},
+    {"narration": "下書きフォルダには、出せないままの辞表が、いくつも残っている。", "subtitle": "出せないまま、いくつも", "image": 1},
+    {"narration": "しちょうの前に立つと、用意した言葉が、すっと引っ込む。", "subtitle": "言葉が、引っ込む", "image": 2},
+    {"narration": "「私が抜けたら、回らないし」。気づけば、それが口癖になっていた。", "subtitle": "それが、口癖に", "image": 3},
+    {"narration": "でも、言い出せないのは、気が弱いからじゃない。", "subtitle": "弱さじゃない", "image": 3},
+    {"narration": "責任感が強くて、優しい人ほど、最後まで言えずに抱え込む。", "subtitle": "抱え込んでしまう", "image": 3},
+    {"narration": "言えないまま、あなたが先に壊れる必要は、どこにもない。", "subtitle": "壊れる必要はない", "image": 4},
+    {"narration": "――その続きは、本編で。", "subtitle": "続きは、本編で", "image": 4}
+  ]
+}

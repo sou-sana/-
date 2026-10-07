@@ -1,0 +1,58 @@
+[
+ {
+  "cut": 1,
+  "start": 0.0,
+  "end": 3.083,
+  "image": 1,
+  "subtitle": "書いては、消していた"
+ },
+ {
+  "cut": 2,
+  "start": 3.083,
+  "end": 7.936,
+  "image": 1,
+  "subtitle": "出せないまま、いくつも"
+ },
+ {
+  "cut": 3,
+  "start": 7.936,
+  "end": 12.491,
+  "image": 2,
+  "subtitle": "言葉が、引っ込む"
+ },
+ {
+  "cut": 4,
+  "start": 12.491,
+  "end": 18.016,
+  "image": 3,
+  "subtitle": "それが、口癖に"
+ },
+ {
+  "cut": 5,
+  "start": 18.016,
+  "end": 21.973,
+  "image": 3,
+  "subtitle": "弱さじゃない"
+ },
+ {
+  "cut": 6,
+  "start": 21.973,
+  "end": 27.339,
+  "image": 3,
+  "subtitle": "抱え込んでしまう"
+ },
+ {
+  "cut": 7,
+  "start": 27.339,
+  "end": 31.957,
+  "image": 4,
+  "subtitle": "壊れる必要はない"
+ },
+ {
+  "cut": 8,
+  "start": 31.957,
+  "end": 36.613,
+  "image": 4,
+  "subtitle": "続きは、本編で"
+ }
+]
