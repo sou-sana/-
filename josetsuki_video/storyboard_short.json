@@ -1,0 +1,13 @@
+{
+  "title": "70cm除雪機3機種比較_ショート",
+  "voice": {"_preset": "剣崎雌雄 ノーマル(ショートは少し速め)", "style_id": 21, "speed": 1.18, "pitch": -0.03, "intonation": 0.95, "volume": 1.0, "pre_silence": 0.1, "post_silence": 0.1},
+  "bgm": {"gain_db": -18},
+  "cuts": [
+    {"narration": "70センチの除雪機、51万、58万、63万。どれを買えばいい？", "subtitle": "70cm除雪機\n51万・58万・63万 どれを買う？", "image": "C1", "fit": true, "bg": "V1"},
+    {"narration": "除雪幅は、どれもほぼ同じ。違うのは、中身です。", "subtitle": "除雪幅はほぼ同じ。\n違うのは中身。", "image": "C2", "fit": true, "bg": "V1"},
+    {"narration": "ホンダ、エイチエスエス970、51万円。70センチクラスを一番安く買うなら、これ。", "subtitle": "ホンダ HSS970nJ 51万円\n70cmクラスを一番安く", "image": "V3", "note": true},
+    {"narration": "ワドー、エスエックスシー1070、58万円。プラス7万円で10馬力、旋回も電動。硬い雪が多い家向けです。", "subtitle": "ワドー SXC1070H 58万円\n＋7万円で10馬力・旋回も電動", "image": "V2"},
+    {"narration": "ヤマハ、ワイエスエフ1070、63万円。さらにプラス5万円で、静音設計。早朝に除雪する家向けです。", "subtitle": "ヤマハ YSF1070T 63万円\n＋5万円で静音設計", "image": "V4", "note": true},
+    {"narration": "どれも在庫は少なめです。詳しい比較は、関連動画から。", "subtitle": "詳しい比較は\n関連動画から", "image": "C4", "fit": true, "bg": "V1"}
+  ]
+}

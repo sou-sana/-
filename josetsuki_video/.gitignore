@@ -1,0 +1,8 @@
+vv
+build_long/
+build_short/
+images/
+outputs/
+__pycache__/
+# 素材サイトの写真は公開リポジトリに置かない(利用規約上、再配布にあたるため)
+src/P1_photo.jpg
