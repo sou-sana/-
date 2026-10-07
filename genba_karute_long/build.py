@@ -24,7 +24,7 @@ NAVY = (0x0F, 0x2A, 0x3D)
 TEAL = (0x2A, 0x7F, 0x8C)
 FONT = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"
 FONT_SIZE, LINE_H, PAD_Y, MAX_TEXT_W = 52, 76, 26, 1700
-BAND_BOTTOM = 1040
+BAND_BOTTOM = 1068
 build = root / "build"
 build.mkdir(exist_ok=True)
 
