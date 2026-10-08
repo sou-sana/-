@@ -33,6 +33,16 @@ cuts = sb["cuts"]
 def run(cmd):
     subprocess.run(cmd, check=True)
 
+def music_bgm(sb, total, out):
+    """storyboard の bgm.file(music/ 内の曲)があれば、動画の長さに合わせて切り出す(短ければ繰り返す)。"""
+    f = sb.get("bgm", {}).get("file")
+    if not f:
+        return False
+    run(["ffmpeg", "-y", "-v", "error", "-stream_loop", "-1", "-i", str(root / "music" / f), "-t", f"{total:.3f}",
+         "-af", f"afade=t=in:d=0.5,afade=t=out:st={max(total - 2.5, 0):.3f}:d=2.5", "-ar", "48000", "-ac", "2", str(out)])
+    return True
+
+
 
 def duration(path):
     out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
@@ -161,7 +171,7 @@ voice_chain = "loudnorm=I=-16:TP=-2:LRA=11,aresample=48000"
 bgm = sb.get("bgm")
 if bgm:
     bgm_path = build / "bgm.wav"
-    run([sys.executable, str(root / "make_bgm.py"), f"{total:.3f}", str(bgm_path)])
+    music_bgm(sb, total, bgm_path) or run([sys.executable, str(root / "make_bgm.py"), f"{total:.3f}", str(bgm_path)])
     inputs += ["-i", str(bgm_path)]
     filters.append(f"[{audio_idx}:a]{voice_chain},aformat=channel_layouts=stereo[va]")
     filters.append(f"[{audio_idx + 1}:a]loudnorm=I=-16:TP=-2,aresample=48000,volume={bgm['gain_db']}dB[ba]")
