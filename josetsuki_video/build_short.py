@@ -65,6 +65,9 @@ with wave.open(str(build / "voice.wav"), "wb") as f:
 
 # 3) 字幕PNG(全幅の濃紺半透明帯+白文字、中央寄せ)
 for i, c in enumerate(cuts, 1):
+    if not c["subtitle"]:
+        Image.new("RGBA", (W, H), (0, 0, 0, 0)).save(build / f"sub{i}.png")  # 字幕なし(画像側に大見出しがある)
+        continue
     lines = c["subtitle"].split("\n")
     size = FONT_SIZE
     font = ImageFont.truetype(FONT, size, index=FONT_INDEX)
@@ -106,7 +109,14 @@ for k, (img, s, e, c) in enumerate(segs):
         bg.paste(fg, (0, FIT_Y - fg.height // 2))
         bg.save(build / f"fit{k}.png")
         inputs[-1] = str(build / f"fit{k}.png")
-    filters.append(f"[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,format=yuv420p[s{k}]")
+    if c.get("zoom"):  # 冒頭用: ごく緩いズームイン
+        frames_n = int(round(length * FPS))
+        inputs[-8:] = ["-i", inputs[-1]]  # zoompan は1枚の静止画から必要なフレーム数を作る
+        filters.append(f"[{k}:v]scale={W * 2}:{H * 2}:force_original_aspect_ratio=increase,crop={W * 2}:{H * 2},"
+                       f"zoompan=z='1+0.06*on/{frames_n}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames_n}:s={W}x{H}:fps={FPS},"
+                       f"setsar=1,format=yuv420p[s{k}]")
+    else:
+        filters.append(f"[{k}:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,format=yuv420p[s{k}]")
 prev = "s0"
 for k in range(1, n):
     off = segs[k][1] - XFADE / 2

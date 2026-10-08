@@ -12,6 +12,7 @@ apt-get install -y fonts-noto-cjk
 pip install pillow numpy scipy --break-system-packages
 python3 prep_images.py                     # src/ → images/(V2の車エンブレム、V4の機体の文字をぼかす)
 python3 build_short.py && python3 build_long.py   # → outputs/
+python3 make_cards_60.py && python3 build_short.py storyboard_short_60.json   # ショート2本目(60cm)
 python3 make_thumbnail.py                  # 横動画のサムネイル → outputs/thumbnail_横動画.jpg(1280×720)
 ```
 `src/P1_photo.jpg`(素材サイトの写真・商用利用可を確認済み)は再配布を避けるためリポジトリに含めていない。手元に置いてから実行する。
