@@ -63,3 +63,8 @@ https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159?utm_source=youtube
 在庫まとめのURLは投稿日時(10/5 21:01:59)からの推定なので、実際のURLと一致するか確認する。
 
 投稿順: 横動画 → ショート(ショートの「関連動画」に横動画を設定)
+
+## BGM
+今後の動画は YouTubeオーディオライブラリの「Sunny Days - Anno Domini Beats」(帰属表示不要)を使う。
+storyboard に `"bgm": {"file": "sunny_days.mp3", "gain_db": -18}` と書き、曲は `music/sunny_days.mp3` に置く(再配布しないため git には入れていない)。
+`file` がない storyboard は従来どおり合成BGM(ショート: make_bgm.py、横: make_piano_bgm.py)を使う。
