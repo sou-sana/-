@@ -1,6 +1,6 @@
 # 横動画(1920x1080)を storyboard_long.json + images/*.png から書き出す。
 # ナレーションは一文ずつTTSし、文間・シーン間に間を置く。字幕が空のシーン(スライド)は帯を出さない。
-# usage: python3 prep_images.py && python3 build_long.py
+# usage: python3 prep_images.py && python3 build_long.py [storyboard_long.json]
 import json
 import re
 import subprocess
@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFont
 from tts_vv import synthesize
 
 root = Path(__file__).parent
-sb = json.loads((root / "storyboard_long.json").read_text())
+sb = json.loads((root / (sys.argv[1] if len(sys.argv) > 1 else "storyboard_long.json")).read_text())
 W, H = sb["size"]
 FPS = 30
 LEAD = 1.0          # 冒頭の無音(PRテロップ中)
