@@ -1,0 +1,46 @@
+{
+  "title": "ハイブリッド除雪機_HSS960iJXvsHSS1370iJ_ショート",
+  "voice": {
+    "_preset": "剣崎雌雄 ノーマル(ショートは少し速め)",
+    "style_id": 21,
+    "speed": 1.18,
+    "pitch": -0.03,
+    "intonation": 0.95,
+    "volume": 1.0,
+    "pre_silence": 0.05,
+    "post_silence": 0.1
+  },
+  "bgm": {
+    "file": "sunny_days.mp3",
+    "gain_db": -18
+  },
+  "cuts": [
+    {
+      "narration": "6万8千円高いのに、パワーも除雪幅も下？",
+      "subtitle": "",
+      "image": "H0",
+      "zoom": true,
+      "note": true
+    },
+    {
+      "narration": "ホンダのハイブリッド除雪機。960ジェイエックスは69万8千円、1370は63万円。でも、安い1370のほうが、出力も除雪幅も上です。",
+      "subtitle": "安い方が\n出力も除雪幅も上",
+      "image": "H1"
+    },
+    {
+      "narration": "高い理由は、クロスオーガ。ホンダは、硬い雪へのくいこみを助ける機構と説明しています。",
+      "subtitle": "高い理由は\nクロスオーガ",
+      "image": "H2"
+    },
+    {
+      "narration": "数字と価格なら1370。ただし、展示機が1台だけです。硬い雪や狭い通路、新品で買いたいなら、960ジェイエックス。",
+      "subtitle": "数字と価格 → HSS1370iJ(展示機1台)\n硬い雪・狭い通路 → HSS960iJX",
+      "image": "H3"
+    },
+    {
+      "narration": "70センチクラスのほかの機種は、関連動画で比べています。",
+      "subtitle": "70cmクラスの比較は\n関連動画から",
+      "image": "H4"
+    }
+  ]
+}
