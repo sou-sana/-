@@ -39,8 +39,8 @@ def mixed(d, y, parts, size):
         x += font(size).getlength(t)
 
 
-# H0: 冒頭。深い雪の中の除雪機(V3)に大見出し
-k0 = Image.open(img_dir / "V3.png").convert("RGB").resize((W, H), Image.LANCZOS)
+# H0: 冒頭。深い雪を切り崩す除雪機(F1)に大見出し
+k0 = Image.open(img_dir / "F1_v.png").convert("RGB").resize((W, H), Image.LANCZOS)
 ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 od = ImageDraw.Draw(ov)
 for y in range(760):
