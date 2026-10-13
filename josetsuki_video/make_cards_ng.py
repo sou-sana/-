@@ -63,19 +63,23 @@ def head(d, no, title):
     d.text((240, 240), title, font=font(70), fill=NAVY, anchor="lm")
 
 
-# B1: 馬力の数字だけで選ぶ
+# B1: 馬力の呼び名だけで選ぶ(Willbe公式の区分と公式の最大出力だけで比べる)
 k = snow_bg()
 d = ImageDraw.Draw(k)
-head(d, "1", "馬力の数字で選ぶ")
-for i, (model, label, real, hl) in enumerate([("HSS760nJ", "販売ページ「7馬力」", "5.8PS", True),
-                                               ("YSF860", "区分「8馬力帯」", "9.3PS", True)]):
-    top = 400 + i * 420
-    box(d, top, top + 380)
-    center(d, top + 70, model, 64, NAVY)
-    center(d, top + 160, label, 50, GRAY)
-    center(d, top + 230, "↓ 公式の最大出力", 40, GRAY)
-    center(d, top + 310, real, 100, ORANGE)
-center(d, 1270, "※Honda・ヤマハ・Willbe公式の主要諸元", 36, GRAY)
+head(d, "1", "馬力の呼び名で選ぶ")
+d.rounded_rectangle([60, 380, W - 60, 480], radius=24, fill=NAVY)
+d.text((290, 430), "公式の区分", font=font(48), fill=WHITE, anchor="mm")
+d.text((800, 430), "公式の最大出力", font=font(48), fill=WHITE, anchor="mm")
+for i, (model, cls, real, hl) in enumerate([("YT660", "6馬力帯", "4.8PS", False),
+                                             ("YSF860", "8馬力帯", "9.3PS", True),
+                                             ("YSF1070T", "10馬力帯", "9.4PS", True)]):
+    top = 500 + i * 230
+    box(d, top, top + 210)
+    d.text((290, top + 65), model, font=font(46), fill=GRAY, anchor="mm")
+    d.text((290, top + 145), cls, font=font(72), fill=NAVY, anchor="mm")
+    d.text((800, top + 105), real, font=font(96), fill=ORANGE if hl else NAVY, anchor="mm")
+center(d, 1240, "8馬力帯と10馬力帯がほぼ同じ", 52, NAVY)
+center(d, 1320, "※区分・出力ともWillbe公式(YSF1070Tはヤマハ公式)", 34, GRAY)
 k.save(img_dir / "B1.png")
 
 # B2: 除雪高が足りない(棒グラフ)

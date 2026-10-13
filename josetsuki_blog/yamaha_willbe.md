@@ -73,7 +73,7 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 | Willbe YSF860 | 8馬力帯 | 61.5cm | 540,000円 | 要問い合わせ | [見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1) |
 | YAMAHA YSF1070T | 10馬力帯 | 71.5cm | 630,000円 | ラスト2台 | [見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1) |
 
-※「〇馬力帯」は機種の区分名で、最大出力の数値ではありません（例：YT660の最大出力は4.8PS）。除雪幅はメーカー公表値です（販売ページではYSF860を「62cm」と表記）。
+※「〇馬力帯」は機種の区分名で、最大出力の数値ではありません（例：YT660の最大出力は4.8PS）。除雪幅はメーカー公表値です。
 ※価格・在庫は除雪機ネットの掲載情報です。購入前に販売ページで最新情報をご確認ください。
 
 ## あわせて読みたい
