@@ -1,0 +1,12 @@
+{
+  "title": "60cm除雪機_YT660vsHSS760nJ_ショート",
+  "voice": {"_preset": "剣崎雌雄 ノーマル(ショートは少し速め)", "style_id": 21, "speed": 1.18, "pitch": -0.03, "intonation": 0.95, "volume": 1.0, "pre_silence": 0.05, "post_silence": 0.1},
+  "bgm": {"gain_db": -18},
+  "cuts": [
+    {"narration": "北海道で除雪機を買う前に、これだけ見て。", "subtitle": "", "image": "K0", "zoom": true, "note": true},
+    {"narration": "60センチクラスの、ワイティー660と、エイチエスエス760。除雪幅はほぼ同じで、価格差は、たった1万1千円。", "subtitle": "YT660 vs HSS760nJ\n価格差は1.1万円", "image": "K1"},
+    {"narration": "でも、1万1千円高いエイチエスエス760のほうが、出力は1馬力高くて、本体は7キロ軽い。", "subtitle": "高い方が\n1馬力強くて7kg軽い", "image": "K2"},
+    {"narration": "安さ重視なら、ワイティー660。硬い雪が多い家や、物置への出し入れが多い家なら、エイチエスエス760。", "subtitle": "安さ → YT660\n硬い雪・出し入れ → HSS760nJ", "image": "K3"},
+    {"narration": "駐車場が広いなら、70センチクラスも候補です。比較は、関連動画から。", "subtitle": "広い駐車場なら70cmも\n比較は関連動画から", "image": "K4"}
+  ]
+}

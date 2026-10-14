@@ -1,0 +1,46 @@
+{
+  "title": "ヤマハ除雪機撤退_旧ヤマハモデルWillbe_ショート",
+  "voice": {
+    "_preset": "剣崎雌雄 ノーマル(ショートは少し速め)",
+    "style_id": 21,
+    "speed": 1.18,
+    "pitch": -0.03,
+    "intonation": 0.95,
+    "volume": 1.0,
+    "pre_silence": 0.05,
+    "post_silence": 0.1
+  },
+  "bgm": {
+    "file": "sunny_days.mp3",
+    "gain_db": -18
+  },
+  "cuts": [
+    {
+      "narration": "ヤマハの除雪機、もう新品では買えないって、知ってましたか？",
+      "subtitle": "",
+      "image": "Y0",
+      "zoom": true,
+      "note": true
+    },
+    {
+      "narration": "ヤマハは、2026年3月末で除雪機の事業を終了。事業は、ウィルビーという会社に引き継がれました。",
+      "subtitle": "ヤマハは2026年3月末で\n除雪機事業を終了",
+      "image": "Y1"
+    },
+    {
+      "narration": "今は、アースパワーというブランド。ワイティー660や、ワイエスエフ1070ティーなど、機種名は同じ系統です。",
+      "subtitle": "今はWillbe(Earth POWER)\n機種名は同じ系統",
+      "image": "Y2"
+    },
+    {
+      "narration": "使っているヤマハ機の修理は、買った販売店か、サービスパートナー店へ。混む前に、雪が降る前に点検を。",
+      "subtitle": "修理は 買った販売店か\nサービスパートナー店へ",
+      "image": "Y3"
+    },
+    {
+      "narration": "旧ヤマハのワイティー660と、ホンダの比較は、関連動画で。",
+      "subtitle": "YT660とホンダの比較は\n関連動画から",
+      "image": "Y4"
+    }
+  ]
+}

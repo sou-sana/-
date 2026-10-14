@@ -1,0 +1,40 @@
+name: 除雪機 定期チェックのリマインド
+
+on:
+  schedule:
+    - cron: "17 23 * * *"  # 毎朝 8:17 JST（遅れることがあります）。必要な日だけIssueを作る
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "この日付として実行（YYYY-MM-DD、空なら今日）"
+        required: false
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 今日のリマインドを判定
+        run: python josetsuki_reminders/remind.py ${{ github.event.inputs.date }}
+
+      - name: Issueで通知（メールが届きます）
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          shopt -s nullglob
+          for f in josetsuki_reminders/out/*.md; do
+            title=$(head -n 1 "$f")
+            tail -n +2 "$f" > body.md
+            printf '\n@%s\n' "${{ github.repository_owner }}" >> body.md
+            gh issue create --title "$title" --body-file body.md
+          done

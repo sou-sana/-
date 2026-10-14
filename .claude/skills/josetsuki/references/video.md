@@ -1,0 +1,39 @@
+# 動画制作（ショート・横動画）
+
+## 環境
+- 作業場所：`josetsuki_video/`。フォント `fonts-noto-cjk`（無ければ `apt-get install -y fonts-noto-cjk`）
+- 音声：VOICEVOX CORE（`vv` は `../genba_karute_shorts/vv` へのリンク）、剣崎雌雄 style_id 21、ショート speed 1.18
+- BGM：`music/sunny_days.mp3`（YouTubeオーディオライブラリ「Sunny Days」、帰属表示不要）。gitに入れない。無ければユーザーに再送を頼む。ショート −18dB、横動画 −20dB
+- 素材：`src/` → `python3 prep_images.py` でぼかし込みの `images/` を作る。ロゴ・ナンバー・銘板は `prep_images.py` の BLUR に座標を足す
+
+## ショートの手順
+1. 企画を1行の「意外な差」にする（例：「8馬力帯と10馬力帯、出力はほぼ同じ？」）。数字は research.md の手順で確認済みのものだけ
+2. カード作成スクリプト `make_cards_<企画>.py` を既存（`make_cards_ng.py`、`make_cards_yamaha.py`）から複製して書く
+   - X0：写真を全面＋上部に紺のグラデーション＋大見出し2行（白、要所オレンジ）
+   - X1〜X3：雪の背景（V1をぼかし白く）＋白い箱・紺の箱。1枚1メッセージ。出典の注記を小さく
+   - X4：締め「〇〇の比較は関連動画から」
+   - 字幕帯 y≈1400〜1680 に文字を置かない
+3. 台本 `storyboard_short_<企画>.json`：5カット・35〜40秒。1カット目は字幕なし・zoom・note（※イメージ）
+   - 読み：英字型番はカタカナで書く（ワイティー660、エイチエスエス760、ワイエスエフ1070ティー）。「食い込み」は「くいこみ」
+4. `python3 build_short.py storyboard_short_<企画>.json` → `outputs/<title>.mp4`
+5. 確認：数フレームを抜き出して見る（字幕・PRテロップ・※イメージ・カードの文字切れ）。必要ならカードを直して再生成
+6. 投稿文を `投稿用テキスト.txt` に追記し、同じ文面を返信にも全文貼る（タイトル・説明・設定。関連動画は内容が合う横動画）
+
+## 横動画
+- `build_long.py storyboard_long_<企画>.json`。概要欄の1〜3行目に記事リンク（utm_source=youtube&utm_medium=video&utm_campaign=<テーマ>）。途中でも「在庫は毎週変わるので記事で」と誘導
+- ショートの反応（視聴を継続50%以上、再生がほかより多い）を見てから作る
+
+## 勝ちパターン（実績から）
+- 写真＋大見出しで始めたショートは視聴継続59%、静止スライドで始めたショートは21%
+- 一言目は2〜4秒以内、35〜40秒、締めは関連動画へ
+
+## 画像素材のプロンプト
+- 末尾に毎回付ける：`Walk-behind two-stage crawler snowblower operated by a person standing behind it, not a vehicle, not a tractor, not ride-on. No logos, no brand names, no text, no license plates, no emblems on cars or machines.`
+- 機体の色は赤か青（見慣れた色の方が開かれる）。北海道の住宅地、縦はショート用 9:16（上1/3を空に）、横は 16:9
+- Canvaの生成は回数上限がある。上限時はプロンプトを渡してユーザーが別のAIで作る
+- 受け取ったら：乗用型でないか、ロゴ・文字・ナンバーがないかを拡大して確認 → `src/<名前>` に保存 → BLUR追加 → commit
+- 素材一覧と用途は STRATEGY に記録（Q1〜Q10 など）
+
+## 投稿後
+- 2日後に「視聴を継続」と維持率グラフを確認（operations.md）
+- 投稿済みショートは作り直さない。誤りや売り切れは説明欄・固定コメントで補う
