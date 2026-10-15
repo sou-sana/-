@@ -37,5 +37,5 @@ description: 「北海道の除雪機選び」（はてなブログ＋YouTube、
 - 作った記事・動画・投稿文はリポジトリに保存し、commit・push
 - 公開URL、数字、新しく分かった事実、ルールの追加は `josetsuki_STRATEGY.md` に反映
 - 次にユーザーがやること（投稿・URL検査・確認する画面）を短く伝える
-- ユーザーが動画を投稿したら `josetsuki_reminders/posts.json` に追記してcommit（投稿後チェックのリマインドが届く）
+- ユーザーが動画を投稿したら `josetsuki_reminders/posts.json` に追記し、メインブランチにも直接push（このファイルだけ許可済み。手順は operations.md）
 - ユーザーがリマインドのIssueに沿ってスクリーンショットを送ってきたら、operations.md の「動く基準」で判断し、STRATEGYの数字を更新する

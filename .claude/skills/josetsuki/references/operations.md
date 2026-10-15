@@ -4,7 +4,7 @@
 - `.github/workflows/josetsuki_reminders.yml` が毎朝8:17（日本時間）に `josetsuki_reminders/remind.py` を実行し、必要な日だけGitHub Issueを作る（ユーザーにメールが届く）
 - 届くもの：週次チェック（毎週月曜、11〜12月は木曜も）／月次チェック（毎月1日）／季節の企画（11/1・12/1・3/1）／投稿後チェック（投稿の翌日＝コメント、2日後＝分析）
 - 在庫の変化は従来どおり在庫監視のIssueで届く
-- **ユーザーが動画を投稿したら、Claudeが `josetsuki_reminders/posts.json` に日付とタイトルを追記してcommitする**（これで投稿後チェックが届く）
+- **ユーザーが動画を投稿したら、Claudeが `josetsuki_reminders/posts.json` に日付とタイトルを追記し、作業ブランチとメインブランチ（claude/genba-carte-short-video-pvzz84）の両方にpushする**。メインへの直接pushは、このファイルだけユーザーが許可済み（2026-10-15）。手順：`git worktree add <dir> origin/<メイン>` → ファイルをコピー → commit → `git push origin HEAD:<メイン>`
 - 頻度や項目を変えたら、remind.py とこのファイルの両方を直す
 - スケジュール実行はデフォルトブランチ（claude/genba-carte-short-video-pvzz84）にあるワークフローだけが動く
 
