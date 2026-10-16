@@ -63,7 +63,7 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 
 **③ 在庫と納期**
 
-ヤマハ表記の機種は在庫限りの販売です。除雪機ネットでも、YAMAHA YT1070は売り切れています。
+ヤマハ表記の機種は在庫限りの販売です。除雪機ネットでは、YAMAHA YT1070が一度売り切れたあと、10月16日に480,000円で掲載が再開されました。数量や納期は販売ページで確認してください。
 
 ## 除雪機ネットで購入できる旧ヤマハ系モデル（10/11時点）
 
@@ -78,9 +78,11 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 
 ## あわせて読みたい
 
-- [YT660とHSS760nJの違い｜60cm除雪機、1.1万円差で何が変わる？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
+- [同じ63万円の静音除雪機 YSF1070TとSXC1070SEの違い](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/14/210331)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [北海道の除雪機在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
 
 ### 参考情報
 

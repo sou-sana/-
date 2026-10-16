@@ -92,8 +92,10 @@ HSS960iJXの「JX」は、クロスオーガを搭載したタイプです。Hon
 
 ## あわせて読みたい
 
-- [YT660とHSS760nJの違い｜60cm除雪機、1.1万円差で何が変わる？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
+- [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [北海道の除雪機在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
 
 ※価格・在庫・販売状況・仕様は変更される場合があります。購入前に販売ページおよびメーカー公式情報で最新情報をご確認ください。

@@ -4,7 +4,8 @@
 - `.github/workflows/josetsuki_reminders.yml` が毎朝8:17（日本時間）に `josetsuki_reminders/remind.py` を実行し、必要な日だけGitHub Issueを作る（ユーザーにメールが届く）
 - 届くもの：週次チェック（毎週月曜、11〜12月は木曜も）／月次チェック（毎月1日）／季節の企画（11/1・12/1・3/1）／投稿後チェック（投稿の翌日＝コメント、2日後＝分析）
 - 在庫の変化は従来どおり在庫監視のIssueで届く
-- **ユーザーが動画を投稿したら、Claudeが `josetsuki_reminders/posts.json` に日付とタイトルを追記してcommitする**（これで投稿後チェックが届く）
+- **ユーザーが動画を投稿したら、Claudeが `josetsuki_reminders/posts.json` に日付とタイトルを追記し、作業ブランチとメインブランチ（claude/genba-carte-short-video-pvzz84）の両方にpushする**。メインへの直接pushは、このファイルだけユーザーが許可済み（2026-10-15）。手順：`git worktree add <dir> origin/<メイン>` → ファイルをコピー → commit → `git push origin HEAD:<メイン>`
+- 日付つきの予定（「明日これをやる」など）は posts.json の `todos` に `{"date": "YYYY-MM-DD", "items": [...]}` で書く。その日の朝に【今日の予定】のIssueが届く。posts.json なのでメインにも直接pushしてよい
 - 頻度や項目を変えたら、remind.py とこのファイルの両方を直す
 - スケジュール実行はデフォルトブランチ（claude/genba-carte-short-video-pvzz84）にあるワークフローだけが動く
 
@@ -46,3 +47,10 @@
 | ブログ→販売ページ | GA click（週） | 数件 | 週10 |
 | 検索 | Search Consoleの表示（週） | 0 | 週100 |
 | 成果 | 除雪機ネットの販売件数 | 0 | 1件 |
+
+## はてなブログAPI（AtomPub）での更新（設定待ち：10/16）
+- 前提：環境のNetwork accessで `blog.hatena.ne.jp`（と `josetsuki-hokkaido.hateblo.jp`）を許可し、環境変数 `HATENA_API_KEY` にAtomPubのAPIキーを登録（設定後の新しいセッションから有効）
+- 接続：エンドポイント `https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom`、Basic認証（ユーザー名 `genbanokarute`、パスワード＝`$HATENA_API_KEY`）。キーは表示・ログ出力・commitしない
+- 最初は読み取りだけ（記事一覧の取得）で動作確認する
+- 書き込み（記事の更新・新規投稿）は、変更点をユーザーに見せて「OK」をもらってから。削除はしない。更新前の本文は `josetsuki_blog/backup/` に保存してから上書きする
+- キーが漏れた疑いがあれば、はてなの「詳細設定」でAPIキーを再発行してもらう（古いキーは無効になる）

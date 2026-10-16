@@ -75,14 +75,15 @@
 **Wado SXC1070SE**：静音の効果を数字で確かめたい、除雪部の高さを手元で調整したい人に。
 ▶ [SXC1070SEの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1632&affiliate_banner_id=1)
 
-※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT1070・YT660Bが売り切れています。購入前に販売ページで最新情報をご確認ください。
+※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 
 ## あわせて読みたい
 
-- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
 - [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
-- [北海道の除雪機 在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
 
 ## 使うときの注意
 
