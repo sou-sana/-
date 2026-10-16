@@ -79,10 +79,11 @@
 
 ## あわせて読みたい
 
-- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
 - [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
-- [北海道の除雪機 在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
 
 ## 使うときの注意
 

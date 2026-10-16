@@ -92,8 +92,10 @@ YT660より1.1万円高い代わりに、出力は5.8PSと高く、重量は105k
 
 ## あわせて読みたい
 
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [北海道の除雪機在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
 - [除雪幅60cm・70cm・80cmはどこまで違う？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/03/220232)
 
 ※価格・在庫は変動します。購入前に販売ページで最新情報をご確認ください。

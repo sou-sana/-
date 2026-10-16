@@ -93,12 +93,13 @@
 
 ※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 
-詳しい比較は、こちらの記事をどうぞ。
+## あわせて読みたい
 
-- [YT660とHSS760nJの違い｜60cm除雪機、1.1万円差で何が変わる？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
-- [北海道の除雪機在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
 - [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
 
 ## 使うときの注意：詰まりを取るときは必ずエンジンを止める
 

@@ -83,6 +83,14 @@
 
 ※価格・在庫は除雪機ネットの掲載情報です。購入前に販売ページで最新情報をご確認ください。
 
+## あわせて読みたい
+
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
+- [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+
 ## 札幌市以外に住んでいる人へ
 
 除雪機の補助は、市町村ごとに対象や条件がまったく違います。個人が対象になる市町村があるかどうかは、この記事では確かめていません。お住まいの市町村のホームページで「除雪機 補助」と検索するか、役所に問い合わせてください。

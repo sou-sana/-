@@ -113,7 +113,7 @@
 
 ## あわせて読みたい
 
-- [北海道の除雪機 在庫・価格まとめ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
 - [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
 - [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
