@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-10-14 10:50",
+ "checked_at": "2026-10-16 10:15",
  "products": {
   "1819": {
    "name": "HONDA 除雪機 ホンダ HSS760nJ 予約受付中 ホンダ 除雪幅60.5cm 7馬力 このモデルが基本",
@@ -175,17 +175,17 @@
    "qty": 0,
    "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/2469"
   },
-  "2273": {
-   "name": "Willbe（旧ヤマハモデル） 除雪機 YSF860-B 静音特化モデル 納期お問い合わせ下さい 静音タイプ 除雪幅62cm 8馬力 ブレード付き！ 実はエンジンは1070と同じ",
-   "price": 598000,
-   "qty": 1,
-   "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/2273"
-  },
   "2248": {
    "name": "Willbe（旧ヤマハモデル） 除雪機 YSF860 一点突破価格！お問い合わせください。 静音タイプ 除雪幅62cm 8馬力 実はエンジンは1070と同じ",
    "price": 540000,
    "qty": 1,
    "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/2248"
+  },
+  "2273": {
+   "name": "Willbe（旧ヤマハモデル） 除雪機 YSF860B 静音特化モデル 納期お問い合わせ下さい 静音タイプ 除雪幅62cm 8馬力 ブレード付き！ 実はエンジンは1070と同じ",
+   "price": 598000,
+   "qty": 1,
+   "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/2273"
   },
   "1817": {
    "name": "Willbe（旧ヤマハモデル） 除雪機 YT660 早期予約受付中 ボルトが飛ばない雪は飛ぶ！こちら本当に人気ですね！ 除雪幅61.5cm ジェットシューター ブレード後付で人気沸騰中!",
@@ -217,6 +217,12 @@
    "qty": 2,
    "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/1809"
   },
+  "2000": {
+   "name": "YAMAHA 除雪機 YT1070 世界最安機 除雪幅71.5cm 9.5馬力 シンプル設計ベタ雪飛ばせるジェットシューター",
+   "price": 480000,
+   "qty": 1,
+   "url": "https://josetsuki.net/catalog/product_info.php/cPath/37_38/products_id/2000"
+  },
   "35": {
    "name": "YAMAHA 除雪機 YT1380 簡単サイドクラッチ 今シーズン完売 電動シューター ジェットシューター サイドクラッチ タフでとにかく壊れ難さナンバーワン",
    "price": 750200,
@@ -247,11 +253,11 @@
   "Willbe（旧ヤマハモデル） 除雪機 YT660 早期予約受付中",
   "YAMAHA 除雪機 YSF1070T",
   "HONDA 除雪機 ホンダ HSS760nJ",
-  "Willbe（旧ヤマハモデル） 除雪機 YSF860-B",
+  "Willbe（旧ヤマハモデル） 除雪機 YSF860B",
+  "YAMAHA 除雪機 YT1070",
   "SXC1070H",
   "YAMAHA 除雪機 YU-240 ゆっきぃ",
   "HONDA 除雪機 HSS970nJ",
-  "HONDA 除雪機 HSS655cJ1 雪丸",
-  "HONDA 除雪機 HSS655cJE 雪丸"
+  "HONDA 除雪機 HSS655cJ1 雪丸"
  ]
 }
