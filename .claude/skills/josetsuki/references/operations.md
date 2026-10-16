@@ -46,3 +46,10 @@
 | ブログ→販売ページ | GA click（週） | 数件 | 週10 |
 | 検索 | Search Consoleの表示（週） | 0 | 週100 |
 | 成果 | 除雪機ネットの販売件数 | 0 | 1件 |
+
+## はてなブログAPI（AtomPub）での更新（設定待ち：10/16）
+- 前提：環境のNetwork accessで `blog.hatena.ne.jp`（と `josetsuki-hokkaido.hateblo.jp`）を許可し、環境変数 `HATENA_API_KEY` にAtomPubのAPIキーを登録（設定後の新しいセッションから有効）
+- 接続：エンドポイント `https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom`、Basic認証（ユーザー名 `genbanokarute`、パスワード＝`$HATENA_API_KEY`）。キーは表示・ログ出力・commitしない
+- 最初は読み取りだけ（記事一覧の取得）で動作確認する
+- 書き込み（記事の更新・新規投稿）は、変更点をユーザーに見せて「OK」をもらってから。削除はしない。更新前の本文は `josetsuki_blog/backup/` に保存してから上書きする
+- キーが漏れた疑いがあれば、はてなの「詳細設定」でAPIキーを再発行してもらう（古いキーは無効になる）
