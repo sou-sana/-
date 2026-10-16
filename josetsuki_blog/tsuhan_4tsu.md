@@ -109,7 +109,7 @@
 ▶ [YSF860の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1)
 ▶ [YSF1070Tの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1)
 
-※価格・在庫は除雪機ネットの掲載情報です。今季はすでに HSS1370iJ・HSS960iJ・YT1070・YT660B・HSS655cJE が売り切れています。購入前に販売ページで最新情報をご確認ください。
+※価格・在庫は除雪機ネットの掲載情報です。今季はすでに HSS1370iJ・HSS960iJ・YT660B・HSS655cJE が売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 
 ## あわせて読みたい
 
