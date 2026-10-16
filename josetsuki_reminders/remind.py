@@ -74,6 +74,16 @@ def posts_due(today):
     return items
 
 
+def todos_due(today):
+    """posts.json の todos（日付つきの予定）から今日の分を返す。"""
+    data = json.loads((ROOT / "posts.json").read_text(encoding="utf-8"))
+    items = []
+    for t in data.get("todos", []):
+        if dt.date.fromisoformat(t["date"]) == today:
+            items += [f"- [ ] {x}" for x in t["items"]]
+    return items
+
+
 def build(today):
     label = f"{today.isoformat()}（{WD[today.weekday()]}）"
     issues = []
@@ -86,6 +96,9 @@ def build(today):
     if (m, today.day) in SEASONAL:
         name, body = SEASONAL[(m, today.day)]
         issues.append((f"【{name}】{label}", body + "\n企画を始めるときは、このチャットに「始めて」と送ってください。\n"))
+    todo = todos_due(today)
+    if todo:
+        issues.append((f"【今日の予定】{label}", "\n".join(todo) + "\n\n終わったら、このチャット（Claude）に知らせてください。\n"))
     due = posts_due(today)
     if due:
         issues.append((f"【投稿後チェック】{label}", "\n".join(due) + "\n" + SEND))

@@ -5,6 +5,7 @@
 - 届くもの：週次チェック（毎週月曜、11〜12月は木曜も）／月次チェック（毎月1日）／季節の企画（11/1・12/1・3/1）／投稿後チェック（投稿の翌日＝コメント、2日後＝分析）
 - 在庫の変化は従来どおり在庫監視のIssueで届く
 - **ユーザーが動画を投稿したら、Claudeが `josetsuki_reminders/posts.json` に日付とタイトルを追記し、作業ブランチとメインブランチ（claude/genba-carte-short-video-pvzz84）の両方にpushする**。メインへの直接pushは、このファイルだけユーザーが許可済み（2026-10-15）。手順：`git worktree add <dir> origin/<メイン>` → ファイルをコピー → commit → `git push origin HEAD:<メイン>`
+- 日付つきの予定（「明日これをやる」など）は posts.json の `todos` に `{"date": "YYYY-MM-DD", "items": [...]}` で書く。その日の朝に【今日の予定】のIssueが届く。posts.json なのでメインにも直接pushしてよい
 - 頻度や項目を変えたら、remind.py とこのファイルの両方を直す
 - スケジュール実行はデフォルトブランチ（claude/genba-carte-short-video-pvzz84）にあるワークフローだけが動く
 
