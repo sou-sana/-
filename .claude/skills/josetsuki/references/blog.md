@@ -41,6 +41,10 @@
 ```
 - 運営者の事実：札幌在住、除雪機の使用経験なし（使った経験を書かない）。表示名は「北海道の除雪機選び」
 
+## アイキャッチ画像
+- 記事ごとに1枚（1200x630）。`josetsuki_video/make_eyecatch.py` の ITEMS に足して作る（写真＋紺のグラデーション＋見出し2行＋右下に※イメージ）。横動画があるテーマはそのサムネイルを流用
+- はてなの編集画面で画像を本文に入れず、「編集オプション」→「アイキャッチ画像」で指定する（本文の先頭に画像を置くと、スマホで結論が下がるため）
+
 ## リンク
 - 商品：`https://josetsuki.net/catalog/product_info.php?ref=37&products_id=<ID>&affiliate_banner_id=1`（IDは STRATEGY 3章）
 - 全体：`https://josetsuki.net/catalog/index.php?ref=37&affiliate_banner_id=71`
