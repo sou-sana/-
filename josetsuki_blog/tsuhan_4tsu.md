@@ -144,6 +144,7 @@
 - [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
 - [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [札幌の除雪機補助金は個人も使える？上限50万円の対象・条件](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/17/190616)
 
 ## 使うときの注意
 
