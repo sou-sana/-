@@ -1,10 +1,13 @@
 タイトル案：札幌の除雪機補助金は個人も使える？上限50万円の対象・条件・申込時期【2026年度】
 カテゴリー：買い方・補助金
+記事の概要（編集オプションの「記事の概要」に貼る）：札幌市の除雪機購入補助は町内会・除雪ボランティア団体が対象で、個人は使えません。上限50万円、申込は購入2週間前まで。2026年度の条件を市の公式資料で確認しました。
 （はてなブログのMarkdownモードで本文に貼る。本文1行目にタイトルは書かない）
 
 ---
 
 当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
+
+<div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
 
 **最終更新：2026年10月16日**（制度の内容は札幌市公式ページ「小型除雪機購入費の補助」〔2026年8月19日更新〕、令和8年度パンフレット、札幌市除雪機械購入補助金交付要綱の内容）
 
@@ -71,15 +74,25 @@
 
 ### 今買える家庭用の主な機種（10月16日時点・除雪機ネット）
 
-| 機種 | 除雪幅 | 価格 | 向く人 |
-|---|---|---|---|
-| YT660（Willbe／旧ヤマハモデル） | 60cmクラス | 399,000円 | 住宅まわりを、できるだけ安く |
-| HONDA HSS760nJ | 60.5cm | 410,000円 | 60cmクラスでホンダを選びたい |
-| YAMAHA YSF1070T | 71.5cm | 630,000円 | 駐車場が広い、旋回を軽くしたい |
+| 機種 | 除雪幅 | 価格 |
+|---|---|---|
+| YT660（Willbe） | 60cmクラス | 399,000円 |
+| HONDA HSS760nJ | 60.5cm | 410,000円 |
+| YAMAHA YSF1070T | 71.5cm | 630,000円 |
 
-▶ [YT660の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1)
-▶ [HSS760nJの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1)
-▶ [YSF1070Tの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1)
+**YT660**：住宅まわりを、できるだけ安く除雪したい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YT660の価格と在庫を見る（除雪機ネット）</a>
+
+**HSS760nJ**：60cmクラスでホンダを選びたい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSS760nJの価格と在庫を見る（除雪機ネット）</a>
+
+**YSF1070T**：駐車場が広い人、旋回を軽くしたい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
 
 ※価格・在庫は除雪機ネットの掲載情報です。購入前に販売ページで最新情報をご確認ください。
 

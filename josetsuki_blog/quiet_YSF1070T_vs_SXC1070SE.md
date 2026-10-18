@@ -1,10 +1,13 @@
 タイトル案：同じ63万円の静音除雪機 YSF1070TとSXC1070SEの違い｜どっちを選ぶ？【北海道】
 カテゴリー：機種比較
+記事の概要（編集オプションの「記事の概要」に貼る）：同じ63万円の静音除雪機、ヤマハYSF1070TとワドーSXC1070SEを公式の数字で比較。6dB低いとどのくらい静かかの目安も解説。SXC1070SEは10月17日に売り切れ表示。
 （はてなブログのMarkdownモードで本文に貼る。本文1行目にタイトルは書かない）
 
 ---
 
 当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
+
+<div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
 
 **最終更新：2026年10月17日**（価格・在庫は除雪機ネットの10月17日時点の掲載情報）
 
@@ -72,13 +75,16 @@
 ## 4. どっちを選ぶ？
 
 **YAMAHA YSF1070T**：旋回を軽くしたい、在庫があるうちに決めたい人に。
-▶ [YSF1070Tの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
 
 **Wado SXC1070SE**：10月17日に売り切れ表示になりました。
 
 同じWadoの70cmクラスなら、静音タイプではない **SXC1070H**（580,000円・残り2台）があります。静音を優先するなら、YSF1070Tか、60cmクラスのYSF860（540,000円）が候補です。
-▶ [SXC1070Hの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2302&affiliate_banner_id=1)
-▶ [YSF860の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2302&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">SXC1070Hの価格と在庫を見る（除雪機ネット）</a>
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860の価格と在庫を見る（除雪機ネット）</a>
 
 ※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、SXC1070SE・HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 
