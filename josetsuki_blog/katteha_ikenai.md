@@ -1,10 +1,13 @@
 タイトル案：【北海道】買ってはいけない除雪機3つ｜公式の数字で見る失敗しない選び方【2026年】
-カテゴリー：基礎知識
+カテゴリー：選び方の基本
+記事の概要（編集オプションの「記事の概要」に貼る）：北海道で買ってはいけない除雪機の3つの特徴を、メーカー公式の数字で解説。「〇馬力帯」の呼び名と最大出力の違い、除雪高、修理先の確認ポイントと、今買える機種を紹介。
 （はてなブログのMarkdownモードで本文に貼る。本文1行目にタイトルは書かない）
 
 ---
 
 当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
+
+<div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
 
 **最終更新：2026年10月16日**（価格・在庫は除雪機ネットの10月16日時点の掲載情報）
 
@@ -80,16 +83,18 @@
 | YAMAHA YSF1070T | 71.5cm | 9.4PS | 630,000円 | ラスト2台 |
 
 **Willbe YT660**：予算を40万円以内に収めたい人に。60cmクラスでいちばん安い組み合わせです。
-▶ [YT660の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YT660の価格と在庫を見る（除雪機ネット）</a>
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
 
 **HONDA HSS760nJ**：YT660と1.1万円差で、出力が1PS大きいホンダ機を選びたい人に。
-▶ [HSS760nJの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSS760nJの価格と在庫を見る（除雪機ネット）</a>
 
 **Willbe YSF860**：60cmの大きさで、70cmクラス並みの出力（9.3PS）と静音設計がほしい人に。
-▶ [YSF860の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860の価格と在庫を見る（除雪機ネット）</a>
 
 **YAMAHA YSF1070T**：70cmクラスで静音設計と、スイッチで旋回できる「イージーターン」がほしい人に。
-▶ [YSF1070Tの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1)
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
 
 ※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 

@@ -1,12 +1,15 @@
 タイトル案：除雪機を通販で買う前に、店に聞いておく4つ｜北海道は送料と荷下ろしに注意
 カテゴリー：買い方・補助金
+記事の概要（編集オプションの「記事の概要」に貼る）：除雪機を通販で買う前に店に聞く4つ（北海道までの送料・荷下ろし・初期不良の期限・修理先）。札幌市までの送料を実際に問い合わせた例（営業所止め約6万円）も紹介。
 （はてなブログのMarkdownモードで本文に貼る。本文1行目にタイトルは書かない）
 
 ---
 
 当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
 
-**最終更新：2026年10月15日**
+<div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
+
+**最終更新：2026年10月17日**
 
 > **この記事でわかること**
 >
@@ -38,6 +41,17 @@
 > - 北海道・沖縄・一部離島は、別途「中継料」がかかる
 > - 日曜・祝日以外は日付指定ができ、時間指定はできない
 > - 早めに問い合わせると、より安い送料の見積もりになる場合がある（よくある質問）
+
+**実際に聞いてみました（札幌市まで）**
+
+当サイトで2026年10月16日に、YT660とHSS760nJを札幌市へ届ける場合の送料を除雪機ネットに問い合わせたところ、次の回答でした（概算）。
+
+| 受け取り方 | 送料の目安 | YT660（399,000円）と合わせた総額 |
+|---|---|---|
+| 営業所止め | 約60,000円 | 約459,000円 |
+| チャーター便（自宅まで） | 約80,000〜100,000円 | 約479,000〜499,000円 |
+
+「北海道は現在、運賃がかなり上がっている」とのことです。本体価格の1〜2割にあたるので、**近くの販売店の「届け・設置込みの価格」と、総額で比べてから決める**のがおすすめです。送料は時期・地域・機種で変わるので、注文前に必ず見積もりを取ってください。
 
 ## 2. 荷下ろしは誰がどうやる？
 
@@ -97,17 +111,30 @@
 
 ## 通販で探すなら：今買える家庭用の主な機種（10月14日時点・除雪機ネット）
 
-| 機種 | 除雪幅 | 価格 | 向く人 |
-|---|---|---|---|
-| YT660（Willbe／旧ヤマハモデル） | 60cmクラス | 399,000円 | 住宅まわりを、できるだけ安く |
-| HONDA HSS760nJ | 60.5cm | 410,000円 | 60cmクラスでホンダを選びたい |
-| YSF860（Willbe／旧ヤマハモデル） | 62cm（公表615mm） | 540,000円 | 60cmクラスで力と静かさがほしい |
-| YAMAHA YSF1070T | 71.5cm | 630,000円 | 駐車場が広い、旋回を軽くしたい |
+| 機種 | 除雪幅 | 価格 |
+|---|---|---|
+| YT660（Willbe） | 60cmクラス | 399,000円 |
+| HONDA HSS760nJ | 60.5cm | 410,000円 |
+| YSF860（Willbe） | 61.5cm | 540,000円 |
+| YAMAHA YSF1070T | 71.5cm | 630,000円 |
 
-▶ [YT660の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1)
-▶ [HSS760nJの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1)
-▶ [YSF860の販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1)
-▶ [YSF1070Tの販売ページを見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1)
+**YT660**：住宅まわりを、できるだけ安く除雪したい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YT660の価格と在庫を見る（除雪機ネット）</a>
+
+**HSS760nJ**：60cmクラスでホンダを選びたい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSS760nJの価格と在庫を見る（除雪機ネット）</a>
+
+**YSF860**：60cmクラスで、力と静かさがほしい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860の価格と在庫を見る（除雪機ネット）</a>
+
+**YSF1070T**：駐車場が広い人、旋回を軽くしたい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
 
 ※価格・在庫は除雪機ネットの掲載情報です。今季はすでに HSS1370iJ・HSS960iJ・YT660B・HSS655cJE が売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
 
@@ -117,6 +144,7 @@
 - [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
 - [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [札幌の除雪機補助金は個人も使える？上限50万円の対象・条件](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/17/190616)
 
 ## 使うときの注意
 
@@ -125,7 +153,7 @@
 ## よくある質問
 
 **Q. 通販で買うと、北海道は送料が高い？**
-A. 店によります。北海道は別料金になる店があるので、「自宅まで総額いくらか」を注文前に問い合わせるのが確実です。
+A. 店によります。当サイトが除雪機ネットに問い合わせた例（2026年10月、札幌市まで）では、営業所止めで約6万円、チャーター便で約8万〜10万円でした。「自宅まで総額いくらか」を注文前に問い合わせるのが確実です。
 
 **Q. 荷下ろしは自分でできる？**
 A. 荷降ろしにフォークリフトが必要な店があります。その場合は営業所まで取りに行くか、降ろせる車で届けてもらう（別料金）ことになります。注文前に確認しましょう。
