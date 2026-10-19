@@ -1,14 +1,19 @@
-タイトル案：ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe・Earth POWER）とは【2026年・北海道】
-カテゴリー：基礎知識
+タイトル案：ヤマハ除雪機の撤退はいつ？もう買えない？修理・部品と旧ヤマハモデル（Willbe）【2026年】
+カテゴリー：機種比較、買い方・補助金
+記事の概要（編集オプションの「記事の概要」に貼る）：ヤマハは事業譲渡により2026年3月末で除雪機事業を終了し、Willbe（ウィルビー）が引き継ぎました。今あるヤマハ除雪機の修理・部品の相談先と、今買える旧ヤマハモデル（YT660・YSF860・YSF1070T）をまとめています。
 （はてなブログのMarkdownモードで本文に貼る。本文1行目にタイトルは書かない）
 
 ---
 
 当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
 
+<div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
+
+**最終更新：2026年10月19日**（価格・在庫は除雪機ネットの10月17日時点の掲載情報）
+
 除雪機を探していると、販売ページで「**Willbe（旧ヤマハモデル）**」という表記を見かけることがあります。
 
-「ヤマハの除雪機はもうないの？」
+「ヤマハは除雪機から撤退したの？」
 「今使っているヤマハ機の修理はどうなるの？」
 
 と気になっている方に向けて、2026年10月時点で確認できる公式情報を整理しました。
@@ -41,6 +46,7 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 | 13馬力帯 | YT1380、YT1380X、YT1390X、YT1390XR |
 
 ※「-B」はブレード付きのモデルです。仕様や部品がヤマハ時代と完全に同じかどうかは、公式情報では確認できていません。購入時は販売店に確認してください。
+※「〇馬力帯」は機種の区分名で、最大出力の数値ではありません（例：YT660の最大出力は4.8PS）。
 
 ## 今ヤマハ機を使っている人へ：修理と部品
 
@@ -65,16 +71,28 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 
 ヤマハ表記の機種は在庫限りの販売です。除雪機ネットでは、YAMAHA YT1070が一度売り切れたあと、10月16日に480,000円で掲載が再開されました。数量や納期は販売ページで確認してください。
 
-## 除雪機ネットで購入できる旧ヤマハ系モデル（10/11時点）
+## 除雪機ネットで購入できる旧ヤマハ系モデル（10月17日時点）
 
-| 機種 | 区分（Willbe公式） | 除雪幅 | 価格 | 在庫 | 販売ページ |
-|---|---|---|---|---|---|
-| Willbe YT660 | 6馬力帯 | 61.5cm | 399,000円 | 早期予約受付中 | [見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1) |
-| Willbe YSF860 | 8馬力帯 | 61.5cm | 540,000円 | 要問い合わせ | [見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1) |
-| YAMAHA YSF1070T | 10馬力帯 | 71.5cm | 630,000円 | ラスト2台 | [見る](https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1) |
+| 機種（除雪幅） | 本体価格 | 10/17の表示 |
+|---|---:|---|
+| Willbe YT660（61.5cm） | 399,000円 | 早期予約受付中 |
+| Willbe YSF860（61.5cm） | 540,000円 | 要問い合わせ |
+| YAMAHA YSF1070T（71.5cm） | 630,000円 | ラスト2台 |
 
-※「〇馬力帯」は機種の区分名で、最大出力の数値ではありません（例：YT660の最大出力は4.8PS）。除雪幅はメーカー公表値です。
-※価格・在庫は除雪機ネットの掲載情報です。購入前に販売ページで最新情報をご確認ください。
+**YT660**（6馬力帯・最大出力4.8PS）：60cmクラスで、予算を40万円前後に抑えたい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1817&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YT660の価格と在庫を見る（除雪機ネット）</a>
+
+**YSF860**（8馬力帯・最大出力9.3PS）：60cmの大きさで、力と静かさがほしい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860の価格と在庫を見る（除雪機ネット）</a>
+
+**YSF1070T**（10馬力帯・最大出力9.4PS）：70cmクラスで、静音設計とスイッチで旋回できる「イージーターン」がほしい人に。
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
+※除雪幅・最大出力はメーカー公表値です（販売ページではYSF860を「62cm」と表記）。価格・在庫は除雪機ネットの掲載情報です。購入前に販売ページで最新情報をご確認ください。
 
 ## あわせて読みたい
 
@@ -84,6 +102,25 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
 - [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
 
+## 使うときの注意
+
+詰まった雪を取るときは、**必ずエンジンを止め、回転が止まってから**雪かき棒などの道具で取り除いてください。
+
+## よくある質問
+
+**Q. ヤマハは除雪機から撤退したの？**
+A. ヤマハは事業譲渡により、2026年3月末で除雪機事業を終了しました。事業はWillbe（ウィルビー）が引き継ぎ、「Earth POWER」ブランドで同じ系統の機種を販売しています。
+
+**Q. 今使っているヤマハの除雪機は、修理してもらえる？**
+A. ヤマハ公式サイトでは、購入した販売店か「ヤマハ除雪機サービスパートナー店」に相談するよう案内されています。シーズン中は混み合うので、雪が降る前の点検がおすすめです。
+
+**Q. 「YAMAHA」と「Willbe」の表記の違いは？**
+A. 販売ページの表記に合わせています。「YAMAHA」表記はヤマハ時代の在庫品、「Willbe」表記はWillbeが販売する機種です。保証の窓口が違う可能性があるので、購入前に販売店に確認してください。
+
+---
+
+※本記事は2026年10月19日時点で確認できた情報をもとにしています。修理・部品・保証の最新の扱いは、販売店・Willbe・ヤマハの公式窓口でご確認ください。
+
 ### 参考情報
 
 - [ヤマハ発動機：除雪機（事業終了のお知らせ）](https://www.yamaha-motor.co.jp/snowblower/)
@@ -92,5 +129,3 @@ Willbeの公式サイトには、家庭用の6馬力帯から13馬力帯まで�
 - [Willbe：Earth POWER除雪機](https://snowblower.willbe-corp.com/)
 - [Willbe：除雪機 先行販売開始](https://willbe-corp.com/about/news/20251107/)
 - [PR TIMES：Earth POWERブランド除雪機 本格販売開始](https://prtimes.jp/main/html/rd/p/000000018.000140100.html)
-
-※本記事は2026年10月13日時点で確認できた情報をもとにしています。修理・部品・保証の最新の扱いは、販売店・Willbe・ヤマハの公式窓口でご確認ください。
