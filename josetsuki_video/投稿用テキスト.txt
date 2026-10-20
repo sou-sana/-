@@ -462,6 +462,8 @@ https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159?utm_source=youtube
 ④予備のシャーボルト：石などをかむと折れて機械を守るボルト。予備は純正を(Honda)
 試運転は車庫の中でかけっぱなしにしない、詰まりはエンジンを止めキーを抜いてから道具で取る、を守ってください。機種ごとの手順は取扱説明書に従ってください。
 エンジンがかからなければ、雪が降る前に販売店へ。買い替えるなら、60cmクラスの比較を関連動画で。
+エンジンがかからないときの確認順と相談先は、ブログにまとめています。
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/20/123823?utm_source=youtube&utm_medium=video&utm_campaign=shiunten
 
 音声:VOICEVOX:剣崎雌雄
 
@@ -471,4 +473,6 @@ https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159?utm_source=youtube
 【設定】
 関連動画: 60cm横動画(YT660 vs HSS760nJ)
 「有料プロモーション」: チェックを入れる
-投稿順: 先に記事(josetsuki_blog/shiunten_4tsu.md)を公開 → URLをチャットに送る → 固定コメントの文面を受け取ってから投稿
+固定コメント:
+エンジンがかからないときの確認順、修理の相談先、買い替えるときの候補はこちら👇
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/20/123823?utm_source=youtube&utm_medium=comment&utm_campaign=shiunten
