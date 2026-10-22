@@ -59,6 +59,8 @@ Hondaのクロスオーガは、硬い雪に対応するための機構です。
 
 この記事で取り上げる機種のうち、クロスオーガを搭載しているのはHSS960iJX（除雪幅62cm、全装備重量160kg：Honda公式）です。クロスオーガがついた型と標準オーガの型の違いは[HSS960iJXとHSS1370iJの違い](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/10/002810)にまとめています。
 
+**今の除雪機で固い雪を削るとき**：Hondaの「除雪作業のコツ」では、固くなった雪で除雪部が乗り上げる場合は前進と後進をくり返すと平らにできる、深い雪や固い雪でエンジン回転が落ちる場合は除雪部にかかる雪幅を狭くする、と案内しています。
+
 | 機種 | 除雪幅 | 公式に書かれていること |
 |---|---|---|
 | HSS960iJX | 62cm | クロスオーガ（硬い雪をかみ砕く機構） |
@@ -154,5 +156,6 @@ A. ヤマハ・Willbeのよくある質問では、シャーボルトが切れ�
 - [Honda：HSS960i・HSS1370iの発表（2025年）](https://global.honda/jp/news/2025/p250625-hss.html)
 - [Honda：除雪機のよくあるご質問](https://www.honda.co.jp/customer/power/snow/)
 - [Honda：湿った雪を除雪する場合の注意点](https://www.honda.co.jp/customer/power/snow/faq/qa022/)
+- [Honda：除雪作業のコツ](https://www.honda.co.jp/snow/guide/skillful/)
 - [Willbe：除雪機よくあるご質問](https://willbe-corp.com/useful/faq/snowblower/)
 - [経済産業省：除雪機の事故についての資料](https://www.meti.go.jp/product_safety/consumer/pdf/josetsuki.pdf)
