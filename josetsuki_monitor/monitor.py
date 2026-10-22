@@ -27,7 +27,15 @@ HEADERS = {"User-Agent": "josetsuki-stock-check/1.0 (daily, 1 request per page)"
 
 
 def fetch(session, url):
-    r = session.get(url, headers=HEADERS, timeout=30)
+    # 相手サーバーの一時的なつながりにくさで止まらないよう、接続できないときだけ3回まで試す(1分・2分おき)
+    for attempt in range(3):
+        try:
+            r = session.get(url, headers=HEADERS, timeout=30)
+            break
+        except (requests.ConnectionError, requests.Timeout):
+            if attempt == 2:
+                raise
+            time.sleep(60 * (attempt + 1))
     r.raise_for_status()
     time.sleep(2)  # 相手サーバーへの負荷を抑える
     return BeautifulSoup(r.content, "html.parser")

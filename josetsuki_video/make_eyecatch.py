@@ -20,16 +20,17 @@ def font(size):
     return ImageFont.truetype(FONT, size, index=0)
 
 
-def cover(path):
+def cover(path, ay=0.5):
+    """ay: 縦長の写真で切り出す高さ(0=上端、1=下端)。"""
     im = Image.open(path).convert("RGB")
     r = max(W / im.width, H / im.height)
     im = im.resize((int(im.width * r) + 1, int(im.height * r) + 1), Image.LANCZOS)
-    x, y = (im.width - W) // 2, (im.height - H) // 2
+    x, y = (im.width - W) // 2, int((im.height - H) * ay)
     return im.crop((x, y, x + W, y + H))
 
 
-def make(name, photo, line1, line2, accent=""):
-    im = cover(img_dir / photo).convert("RGBA")
+def make(name, photo, line1, line2, accent="", ay=0.5):
+    im = cover(img_dir / photo, ay).convert("RGBA")
     ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     od = ImageDraw.Draw(ov)
     for x in range(W):
@@ -60,6 +61,8 @@ ITEMS = [
     ("10_何馬力必要", "L4.png", "家庭用除雪機は", "何馬力必要？", "北海道"),
     ("11_6・8・10馬力", "F5_h.png", "6・8・10馬力は", "何が違う？", "北海道"),
     ("12_60・70・80cm", "Q3_h.png", "除雪幅60・70・80cm", "どこまで違う？", "駐車場の広さで"),
+    ("13_初雪前の確認4つ", "Q12_v.png", "初雪の前に除雪機で", "確認する4つ", "かからない原因も", 0.78),
+    ("14_雪質で選ぶ機能", "Q14_v.png", "ベタ雪・固い雪に", "効く機能と機種", "公式の説明だけで", 0.6),
 ]
 for it in ITEMS:
     make(*it)
