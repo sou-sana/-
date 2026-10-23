@@ -92,7 +92,7 @@ Willbeの公式FAQでも、部品・修理は購入した販売店か、ホー�
 | Willbe YT660（61.5cm） | 399,000円 | 早期予約受付中 |
 | YAMAHA YT1070（71.5cm） | 480,000円 | 掲載再開（10/16） |
 | Willbe YSF860（61.5cm） | 540,000円 | 要問い合わせ |
-| Willbe YSF860B（除雪幅は販売ページで確認） | 598,000円 | 販売ページで確認 |
+| Willbe YSF860B（61.5cm・ブレード付き） | 598,000円 | 販売ページで確認 |
 | YAMAHA YSF1070T（71.5cm） | 630,000円 | ラスト2台 |
 
 **YT660**（6馬力帯）：60cmクラスで、予算を40万円前後に抑えたい人に。
@@ -107,7 +107,7 @@ Willbeの公式FAQでも、部品・修理は購入した販売店か、ホー�
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2248&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860の価格と在庫を見る（除雪機ネット）</a>
 
-**YSF860B**：YSF860のブレード付きモデル（Willbe公式の表記はYSF860-B）。除雪幅などの仕様はこの記事では確認できていないので、販売ページで確認してください。
+**YSF860B**：YSF860のブレード付きモデル（Willbe公式の表記はYSF860-B）。除雪幅はロータリー61.5cm・ブレード67cm、装備重量169kg。ブレードは、飛ばしにくい浅い積雪やシャーベット状の雪を押して除雪するための装備です（Willbe公式）。
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2273&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF860Bの価格と在庫を見る（除雪機ネット）</a>
 
