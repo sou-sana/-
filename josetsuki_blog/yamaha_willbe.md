@@ -128,6 +128,7 @@ Willbeの公式FAQでも、部品・修理は購入した販売店か、ホー�
 - [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
 - [除雪機を通販で買う前に、店に聞く4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
 - [同じ63万円の静音除雪機 YSF1070TとSXC1070SEの違い](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/14/210331)
+- [除雪機ヤマハとホンダどっち？60・70cmを価格・出力・修理先で比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/27/192434)
 
 ## 使うときの注意
 
