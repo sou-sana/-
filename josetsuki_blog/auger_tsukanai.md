@@ -9,7 +9,7 @@
 
 <div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
 
-**最終更新：2026年10月26日**（対策はWillbe・Hondaの公式情報、用品の価格・説明は除雪機ネットの10月26日時点の販売ページ）
+**最終更新：2026年10月31日**（対策はWillbe・Hondaの公式情報、用品の価格・説明は除雪機ネットの10月26日時点の販売ページ）
 
 > **この記事でわかること**
 >
@@ -65,7 +65,7 @@ Hondaのよくある質問では、湿った雪を除雪するときは**遅い�
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2199&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">つかない君（大）の価格と在庫を見る（除雪機ネット）</a>
 
-※ボタンの先は除雪機ネットの販売ページです。部品などは主に佐川急便で送られ、送料は佐川急便の料金表によります。北海道までの送料は注文前に確認してください。
+※ボタンの先は除雪機ネットの販売ページです。部品などは主に佐川急便で送られ、送料は佐川急便の料金表によります。佐川急便の公開運賃では、長野から北海道へは60サイズ（2kgまで）1,440円・80サイズ（5kgまで）1,730円です（2026年10月31日確認。2027年1月1日に改定予定）。実際の送料は注文画面で確認してください。
 
 除雪機ネットで人気のコーティングスプレー「スノーノーベル」は、10月26日時点で売り切れです。
 
