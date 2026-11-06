@@ -7,7 +7,7 @@
 
 <div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"><strong>このサイトについて</strong>：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。</div>
 
-**最終更新：2026年11月6日**（価格・在庫は除雪機ネットの11月6日の表示。YSF1070Tの値上がりを反映）
+**最終更新：2026年11月6日**（価格・在庫は除雪機ネットの11月6日の表示。80cmのおすすめをWado SXC1380Hに変更、YSF1070Tの価格表示の変更を反映）
 
 ## 先に結論：優先したいことで1台を選ぶ
 
@@ -20,7 +20,7 @@
 | 60cmで力と静かさ | YSF860 | 540,000円（約60万円） |
 | 旋回や高さ調整を楽に（70cm） | SXC1070H | 580,000円（約64万円） |
 | 70cmで静かさ | YSF1070T | 769,890円（約83万円） |
-| 広い敷地（80cm） | HSM1380iJN | 860,000円（送料は未確認） |
+| 広い敷地を安めに（80cm） | SXC1380H | 780,000円（送料は未確認） |
 
 ※本体価格は税込・送料別、除雪機ネットの2026年11月6日の表示です。総額は札幌市まで営業所止めの例で、ほかの地域は送料が変わります。YSF860の販売ページは「お問い合わせください」の表示です。ホンダの60cm・70cm（HSS760nJ・HSS970nJ）は、「2.」の最後で紹介しています。
 
@@ -35,6 +35,7 @@
 | YT660 | 61.5cm | 62.1cm |
 | YT1070 | 71.5cm | 73cm |
 | SXC1070H | 71cm | 74.5cm |
+| SXC1380H | 80cm | 80cm |
 
 ※Willbe・Wado公式の値。YSF860・YSF1070T・HSM1380iJNの全幅は確認できていないので、販売ページで確かめてください。夏の保管場所も、あわせて測っておきましょう。
 
@@ -103,7 +104,7 @@ Willbe公式では、除雪車が置いていった雪を「固まった雪」�
 
 ### 70cmで静かさを優先するなら：Willbe YSF1070T（70cm）
 
-- 本体価格：769,890円（残り僅か・納期はお問い合わせ）。11月6日に630,000円から値上がりしました。札幌までの総額は約83万円
+- 本体価格：769,890円（残り僅か・納期はお問い合わせ）。11月6日に630,000円から表示が変わったため、店に確認しています。札幌までの総額は約83万円
 - 除雪幅71.5cm・除雪高は新雪51cm／固まった雪35cm
 - 音量66.8dB(A)（7m離れた4方向の平均、ヤマハ調べ）。Willbe（旧ヤマハ）公式は「車約6台分の駐車場」向けとしています（15m×15m・積雪30cmくらい）
 
@@ -111,23 +112,25 @@ Willbe公式では、除雪車が置いていった雪を「固まった雪」�
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1809&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">YSF1070Tの価格と在庫を見る（除雪機ネット）</a>
 
-### 広い敷地なら：HONDA HSM1380iJN（80cm）
+### 広い敷地を安めに：Wado SXC1380H（80cm）
 
-- 本体価格：860,000円（予約受付中）。80cmクラスの送料は確認していません
-- 除雪幅80cm・排気量389cm³（Honda公式）。最大出力は公式の数値を確認中
-- ハイブリッド（除雪はエンジン、走行はモーター）。作業の負荷に合わせて走る速さを自動で調整、低速では左右のクローラ（キャタピラ）を逆に回してその場で旋回、オーガの高さを電動で調整（Honda公式）
+- 本体価格：780,000円（「10月入荷予定分 残り僅か」の表示）。80cmクラスの送料は確認していません
+- 除雪幅80cm・除雪高58cm・最大出力11.8PS（3,600rpmで測った値）・機械の幅（全幅）80cm
+- 電動サイドクラッチ（軽く握って旋回）、オーガの高さを電動で調整、除雪部の傾きを手元で変えるオーガローリング、後進すると除雪部が自動で上がるバックオートリフト、オーガを上下してもハンドルの高さが変わらない作り（Wado公式）
 
-6台の中でいちばん幅が広く、広い駐車場や敷地を除雪したい家の候補です。本体が大きいので、通り道と保管場所を必ず測ってください。メーカー希望小売価格は909,700円（税込）です。
+6台の中でいちばん幅が広く、広い駐車場や敷地を除雪したい家の候補です。ホンダの80cmクラスHSM1380iJN（860,000円）より8万円安い価格です。メーカー希望小売価格は877,800円（税込）。本体が大きく、装備重量は255kgあるので、通り道と保管場所を必ず測ってください。
 
-<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1834&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSM1380iJNの価格と在庫を見る（除雪機ネット）</a>
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=2553&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">SXC1380Hの価格と在庫を見る（除雪機ネット）</a>
 
-### ホンダの60cm・70cmで選ぶなら
+### ホンダで選ぶなら（60cm・70cm・80cm）
 
-ホンダで選びたい方は、60cmのHSS760nJ（410,000円・最大5.8PS・全幅62cm）と、70cmのHSS970nJ（510,000円・最大8.6PS・全幅72.5cm）が候補です。札幌までの総額は約47万円と約57万円です。どちらも予約受付中で、11月頃に入荷予定です（除雪機ネット、2026年10月23日の回答）。ヤマハ系との違いは[除雪機ヤマハとホンダどっち？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/27/192434)で比べています。
+ホンダで選びたい方は、60cmのHSS760nJ（410,000円・最大5.8PS・全幅62cm）と、70cmのHSS970nJ（510,000円・最大8.6PS・全幅72.5cm）が候補です。札幌までの総額は約47万円と約57万円です。どちらも予約受付中で、11月頃に入荷予定です（除雪機ネット、2026年10月23日の回答）。80cmなら、ハイブリッド（除雪はエンジン、走行はモーター）のHSM1380iJN（860,000円・予約受付中、メーカー希望小売価格909,700円）があります。ヤマハ系との違いは[除雪機ヤマハとホンダどっち？](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/27/192434)で比べています。
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1819&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSS760nJの価格と在庫を見る（除雪機ネット）</a>
 
 <a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1830&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSS970nJの価格と在庫を見る（除雪機ネット）</a>
+
+<a href="https://josetsuki.net/catalog/product_info.php?ref=37&products_id=1834&affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;">HSM1380iJNの価格と在庫を見る（除雪機ネット）</a>
 
 ## 3. 北海道まで届けると、総額はいくら？
 
