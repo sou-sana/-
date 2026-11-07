@@ -49,9 +49,10 @@
 | 検索 | Search Consoleの表示（週） | 0 | 週100 |
 | 成果 | 除雪機ネットの販売件数 | 0 | 1件 |
 
-## はてなブログAPI（AtomPub）での更新（設定待ち：10/16）
-- 前提：環境のNetwork accessで `blog.hatena.ne.jp`（と `josetsuki-hokkaido.hateblo.jp`）を許可し、環境変数 `HATENA_API_KEY` にAtomPubのAPIキーを登録（設定後の新しいセッションから有効）
-- 接続：エンドポイント `https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom`、Basic認証（ユーザー名 `genbanokarute`、パスワード＝`$HATENA_API_KEY`）。キーは表示・ログ出力・commitしない
+## はてなブログAPI（AtomPub）での更新（11/7から稼働）
+- 認証：環境のネットワーク認証情報（blog.hatena.ne.jp、Basic：genbanokarute＋APIキー）をプロキシが自動で付ける。こちらはキーを持たない・見ない。curlはそのまま `https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom/entry` を呼べばよい
+- 更新：GETで元の entry を取り、`josetsuki_blog/backup/<日付>/` に保存 → 本文を置き換え → title・category・updated（元のまま＝投稿日を変えない）・draft を付けてPUT。PUT後に公開ページでボタン数・画像・数字を確認。11/7に11本で成功（変わるのは置き換えた行だけ）
+- APIキーや投稿用メールアドレスはチャットに貼らない（11/7に一度貼られたため、ユーザーが投稿用アドレスを変更してキーを再発行済み）
 - 最初は読み取りだけ（記事一覧の取得）で動作確認する
 - 書き込み（記事の更新・新規投稿）は、変更点をユーザーに見せて「OK」をもらってから。削除はしない。更新前の本文は `josetsuki_blog/backup/` に保存してから上書きする
 - キーが漏れた疑いがあれば、はてなの「詳細設定」でAPIキーを再発行してもらう（古いキーは無効になる）

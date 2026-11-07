@@ -1,0 +1,335 @@
+<ns0:entry xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.w3.org/2007/app" xmlns:ns2="http://www.hatena.ne.jp/info/xmlns#">
+<ns0:id>tag:blog.hatena.ne.jp,2013:blog-genbanokarute-14945776032085478800-14945776032092688228</ns0:id>
+<ns0:link rel="edit" href="https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom/entry/14945776032092688228" />
+<ns0:link rel="alternate" type="text/html" href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/20/123823" />
+
+<ns0:author><ns0:name>genbanokarute</ns0:name></ns0:author>
+<ns0:title>初雪の前に除雪機で確認する4つ｜エンジンがかからない原因も【北海道】</ns0:title>
+<ns0:updated>2026-10-20T12:38:23+09:00</ns0:updated>
+<ns0:published>2026-10-20T12:38:23+09:00</ns0:published>
+<ns1:edited>2026-10-20T12:39:38+09:00</ns1:edited>
+<ns0:summary type="text">当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。 このサイトについて：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。送料や在庫は日付つき…</ns0:summary>
+<ns0:content type="text/x-markdown">当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
+
+&lt;div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"&gt;&lt;strong&gt;このサイトについて&lt;/strong&gt;：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。&lt;/div&gt;
+
+**最終更新：2026年10月20日**（手入れの内容はHonda・ヤマハ・Willbe公式の「よくある質問」、価格・在庫は除雪機ネットの10月20日時点の掲載情報）
+
+&gt; **この記事でわかること**
+&gt;
+&gt; - 初雪の前に、除雪機で確認しておきたい4つ
+&gt; - エンジンがかからないときに、どこから確かめるか
+&gt; - 自分で直せないときの相談先と、買い替えるときの候補
+
+半年ぶりに除雪機を出したら、エンジンがかからない。雪が降ってから気づくと、販売店に頼んでもすぐには直らないかもしれません。雪が降る前に確認しておきたいことを、メーカー公式の「よくある質問」をもとにまとめました。
+
+## 先に結論：確認する4つ
+
+| 確認すること | 理由（メーカー公式） |
+|---|---|
+| ①去年の燃料を抜いたか | 抜いていないと、燃料装置の中が詰まる原因になることがある（ヤマハ・Willbe） |
+| ②バッテリー（セルが回るか） | 長く置くと放電する。使う前に補充電（Honda） |
+| ③オイルの量と汚れ | ウォームケースオイルはシーズン初めの交換を推奨（ヤマハ・Willbe） |
+| ④予備のシャーボルト | 石などをかむと折れて機械を守る。予備は純正を（Honda） |
+
+細かい手順や量は、機種ごとに取扱説明書で確認してください。
+
+## ①去年の燃料を抜いたか
+
+ヤマハとWillbeの「よくある質問」では、エンジンが始動しないときの確認として「昨シーズン終了後、燃料タンクから燃料を抜き取ったか」を挙げています。**抜き取っていない場合は、燃料装置内部の詰まりが考えられる**とし、販売店などに点検を頼むよう案内しています。
+
+Hondaも、30日以上使わないときは燃料タンクとキャブレターの燃料を抜くよう案内しています。燃料は自動車と同じ無鉛レギュラーガソリンで、Hondaの除雪機は4ストロークなので混合ガソリンは使えません。
+
+去年の燃料を入れたままにしていた場合は、無理に何度もかけ直さず、販売店に相談するのが確実です。
+
+## ②バッテリー（セルが回るか）
+
+Hondaは、長く保管するときはバッテリーのマイナス端子を外すよう案内しています。外していても放電するので、**使う前に補充電**が必要です。ハイブリッド機は、6か月に1度の補充電が案内されています（シーズン中は作業中に充電されるので不要）。
+
+ヤマハ・Willbeの「よくある質問」でも、スターターモーター（セル）が回らない場合は**バッテリーの充電不足が考えられる**としています。
+
+## ③オイルの量と汚れ
+
+エンジンオイルの量と汚れを確認します。ヤマハ・Willbeの推奨は、4ストロークガソリンエンジンオイル SAE 5W-30 SE級以上です。
+
+ヤマハ・Willbeの機種では、**ウォームケースオイルは初回20時間目（燃料4回補給が目安）、その後はシーズン初めごとの交換**が推奨されています。交換は購入した販売店かサービス店に相談するよう案内されています。変速機（HST）のオイルは交換不要です。
+
+ほかのメーカーの機種は、取扱説明書の交換時期に従ってください。
+
+## ④予備のシャーボルト
+
+シャーボルト（Hondaの呼び方ではロックボルト）は、石などをかみ込んで大きな力がかかったときに**わざと折れて、除雪機の損傷を防ぐボルト**です。Hondaは、スペアが同梱されていること、使ったら補充すること、純正以外を使うと本機の損傷につながることを案内しています。
+
+シーズン中に「急に雪が飛ばなくなった」ときは、シャーボルトが折れていることがあります。予備がどこにあるか、雪が降る前に確かめておきましょう。
+
+## エンジンがかからないときの確認順
+
+ヤマハ・Willbeの「よくある質問」では、始動しないときに次の順で確認するよう案内しています。
+
+1. エンジンスイッチを「運転」の位置にしてから「始動」まで回しているか
+2. セルが回らない場合は、バッテリーの充電不足
+3. 燃料コックが「運転」の位置になっているか
+4. スロットル／チョークのレバーが「始動」の位置になっているか
+5. 昨シーズンのあと、燃料を抜き取ったか（抜いていなければ、燃料装置の詰まりが考えられる）
+
+ここまで確かめてもかからなければ、購入した販売店かメーカーのサービス店に点検を頼んでください。ホームセンターで買った場合は、除雪機を納入したサービス店が窓口になります（ヤマハ・Willbeの案内）。ヤマハの除雪機の修理窓口は、[ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)にまとめています。
+
+## 試運転のときの注意
+
+- 車庫や物置の中でエンジンをかけっぱなしにしない（排気ガスがこもります）
+- 回転部（オーガ・ブロワ）に手や足を近づけない
+- 詰まった雪や異物を取るときは、**必ずエンジンを止め、キーを抜き、回転が止まってから**雪かき棒などの道具で取り除く（ヤマハ・Willbeの案内）
+
+## 直すより買い替えるなら：今買える主な機種
+
+修理の見積もりが高い、部品が出ないなどで買い替えるなら、雪が降る前の方が選べる機種が多いです。10月20日時点で、除雪機ネットではホンダの90cmクラスのハイブリッド（HSM1390i）、小型ハイブリッドHSS960iJ、ヤマハYT1380などがすでに「今シーズン完売」の表示です。
+
+| 機種 | 除雪幅 | 価格 |
+|---|---|---|
+| Willbe YT660 | 61.5cm | 399,000円 |
+| HONDA HSS760nJ | 60.5cm | 410,000円 |
+| HONDA HSS970nJ | 71cm | 510,000円 |
+
+**YT660**：家のまわりを、できるだけ安く除雪したい人に。
+
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1817&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YT660の価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+**HSS760nJ**：60cmクラスでホンダを選びたい人に。
+
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1819&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS760nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+**HSS970nJ**：駐車場が広く、70cmクラスにしたい人に。
+
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1830&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS970nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
+
+ほかの機種と売り切れの情報は、在庫まとめで毎週更新しています。
+
+## あわせて読みたい
+
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [【北海道】買ってはいけない除雪機3つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212)
+- [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
+
+## よくある質問
+
+**Q. 去年の燃料を入れたままにしていた。そのまま使っていい？**
+A. ヤマハ・Willbeの「よくある質問」では、燃料を抜き取っていない場合は燃料装置内部の詰まりが考えられるとして、販売店などに点検を頼むよう案内しています。かからない場合は、無理にかけ直さず相談してください。
+
+**Q. セルが回らない。故障？**
+A. まずバッテリーの充電不足が考えられます（ヤマハ・Willbeの案内）。長く置いたバッテリーは、外していても放電するので、使う前に補充電が必要です（Hondaの案内）。
+
+**Q. シャーボルトが折れたら、普通のボルトで代用していい？**
+A. Hondaは、純正以外のボルトを使うと本機の損傷につながると案内しています。必ず純正の予備を使い、使ったら補充してください。
+
+---
+
+※手入れの内容はHonda・ヤマハ・Willbe公式の「よくある質問」（2026年10月19日確認）、価格・在庫は除雪機ネットの掲載情報をもとにしています。。機種ごとの手順は取扱説明書に従ってください。誤りに気づいた方は、コメントで教えてください。
+[f:id:genbanokarute:20261020123752j:plain:alt=初雪前の確認4つ（イメージ）]
+### 参考情報
+
+- [Honda：除雪機 よくあるご質問＆使い方ガイド](https://www.honda.co.jp/customer/power/snow/)
+- [Willbe：除雪機よくあるご質問](https://willbe-corp.com/useful/faq/snowblower/)
+</ns0:content>
+<ns2:formatted-content type="text/html">&lt;p&gt;当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。&lt;/p&gt;
+
+&lt;div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"&gt;&lt;strong&gt;このサイトについて&lt;/strong&gt;：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;最終更新：2026年10月20日&lt;/strong&gt;（手入れの内容はHonda・ヤマハ・Willbe公式の「よくある質問」、価格・在庫は除雪機ネットの10月20日時点の掲載情報）&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;この記事でわかること&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;初雪の前に、除雪機で確認しておきたい4つ&lt;/li&gt;
+&lt;li&gt;エンジンがかからないときに、どこから確かめるか&lt;/li&gt;
+&lt;li&gt;自分で直せないときの相談先と、買い替えるときの候補&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;半年ぶりに除雪機を出したら、エンジンがかからない。雪が降ってから気づくと、販売店に頼んでもすぐには直らないかもしれません。雪が降る前に確認しておきたいことを、メーカー公式の「よくある質問」をもとにまとめました。&lt;/p&gt;
+
+&lt;h2 id="先に結論確認する4つ"&gt;先に結論：確認する4つ&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; 確認すること &lt;/th&gt;
+&lt;th&gt; 理由（メーカー公式） &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; ①去年の燃料を抜いたか &lt;/td&gt;
+&lt;td&gt; 抜いていないと、燃料装置の中が詰まる原因になることがある（ヤマハ・Willbe） &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; ②バッテリー（セルが回るか） &lt;/td&gt;
+&lt;td&gt; 長く置くと放電する。使う前に補充電（Honda） &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; ③オイルの量と汚れ &lt;/td&gt;
+&lt;td&gt; ウォームケースオイルはシーズン初めの交換を推奨（ヤマハ・Willbe） &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; ④予備のシャーボルト &lt;/td&gt;
+&lt;td&gt; 石などをかむと折れて機械を守る。予備は純正を（Honda） &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;細かい手順や量は、機種ごとに取扱説明書で確認してください。&lt;/p&gt;
+
+&lt;h2 id="去年の燃料を抜いたか"&gt;①去年の燃料を抜いたか&lt;/h2&gt;
+
+&lt;p&gt;ヤマハとWillbeの「よくある質問」では、エンジンが始動しないときの確認として「昨シーズン終了後、燃料タンクから燃料を抜き取ったか」を挙げています。&lt;strong&gt;抜き取っていない場合は、燃料装置内部の詰まりが考えられる&lt;/strong&gt;とし、販売店などに点検を頼むよう案内しています。&lt;/p&gt;
+
+&lt;p&gt;Hondaも、30日以上使わないときは燃料タンクとキャブレターの燃料を抜くよう案内しています。燃料は自動車と同じ無鉛レギュラーガソリンで、Hondaの除雪機は4ストロークなので混合ガソリンは使えません。&lt;/p&gt;
+
+&lt;p&gt;去年の燃料を入れたままにしていた場合は、無理に何度もかけ直さず、販売店に相談するのが確実です。&lt;/p&gt;
+
+&lt;h2 id="バッテリーセルが回るか"&gt;②バッテリー（セルが回るか）&lt;/h2&gt;
+
+&lt;p&gt;Hondaは、長く保管するときはバッテリーのマイナス端子を外すよう案内しています。外していても放電するので、&lt;strong&gt;使う前に補充電&lt;/strong&gt;が必要です。ハイブリッド機は、6か月に1度の補充電が案内されています（シーズン中は作業中に充電されるので不要）。&lt;/p&gt;
+
+&lt;p&gt;ヤマハ・Willbeの「よくある質問」でも、スターターモーター（セル）が回らない場合は&lt;strong&gt;バッテリーの充電不足が考えられる&lt;/strong&gt;としています。&lt;/p&gt;
+
+&lt;h2 id="オイルの量と汚れ"&gt;③オイルの量と汚れ&lt;/h2&gt;
+
+&lt;p&gt;エンジンオイルの量と汚れを確認します。ヤマハ・Willbeの推奨は、4ストロークガソリンエンジンオイル SAE 5W-30 SE級以上です。&lt;/p&gt;
+
+&lt;p&gt;ヤマハ・Willbeの機種では、&lt;strong&gt;ウォームケースオイルは初回20時間目（燃料4回補給が目安）、その後はシーズン初めごとの交換&lt;/strong&gt;が推奨されています。交換は購入した販売店かサービス店に相談するよう案内されています。変速機（HST）のオイルは交換不要です。&lt;/p&gt;
+
+&lt;p&gt;ほかのメーカーの機種は、取扱説明書の交換時期に従ってください。&lt;/p&gt;
+
+&lt;h2 id="予備のシャーボルト"&gt;④予備のシャーボルト&lt;/h2&gt;
+
+&lt;p&gt;シャーボルト（Hondaの呼び方ではロックボルト）は、石などをかみ込んで大きな力がかかったときに&lt;strong&gt;わざと折れて、除雪機の損傷を防ぐボルト&lt;/strong&gt;です。Hondaは、スペアが同梱されていること、使ったら補充すること、純正以外を使うと本機の損傷につながることを案内しています。&lt;/p&gt;
+
+&lt;p&gt;シーズン中に「急に雪が飛ばなくなった」ときは、シャーボルトが折れていることがあります。予備がどこにあるか、雪が降る前に確かめておきましょう。&lt;/p&gt;
+
+&lt;h2 id="エンジンがかからないときの確認順"&gt;エンジンがかからないときの確認順&lt;/h2&gt;
+
+&lt;p&gt;ヤマハ・Willbeの「よくある質問」では、始動しないときに次の順で確認するよう案内しています。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;エンジンスイッチを「運転」の位置にしてから「始動」まで回しているか&lt;/li&gt;
+&lt;li&gt;セルが回らない場合は、バッテリーの充電不足&lt;/li&gt;
+&lt;li&gt;燃料コックが「運転」の位置になっているか&lt;/li&gt;
+&lt;li&gt;スロットル／チョークのレバーが「始動」の位置になっているか&lt;/li&gt;
+&lt;li&gt;昨シーズンのあと、燃料を抜き取ったか（抜いていなければ、燃料装置の詰まりが考えられる）&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;ここまで確かめてもかからなければ、購入した販売店かメーカーのサービス店に点検を頼んでください。ホームセンターで買った場合は、除雪機を納入したサービス店が窓口になります（ヤマハ・Willbeの案内）。ヤマハの除雪機の修理窓口は、&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000"&gt;ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは&lt;/a&gt;にまとめています。&lt;/p&gt;
+
+&lt;h2 id="試運転のときの注意"&gt;試運転のときの注意&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;車庫や物置の中でエンジンをかけっぱなしにしない（排気ガスがこもります）&lt;/li&gt;
+&lt;li&gt;回転部（オーガ・ブロワ）に手や足を近づけない&lt;/li&gt;
+&lt;li&gt;詰まった雪や異物を取るときは、&lt;strong&gt;必ずエンジンを止め、キーを抜き、回転が止まってから&lt;/strong&gt;雪かき棒などの道具で取り除く（ヤマハ・Willbeの案内）&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id="直すより買い替えるなら今買える主な機種"&gt;直すより買い替えるなら：今買える主な機種&lt;/h2&gt;
+
+&lt;p&gt;修理の見積もりが高い、部品が出ないなどで買い替えるなら、雪が降る前の方が選べる機種が多いです。10月20日時点で、除雪機ネットではホンダの90cmクラスのハイブリッド（HSM1390i）、小型ハイブリッドHSS960iJ、ヤマハYT1380などがすでに「今シーズン完売」の表示です。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; 機種 &lt;/th&gt;
+&lt;th&gt; 除雪幅 &lt;/th&gt;
+&lt;th&gt; 価格 &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; Willbe YT660 &lt;/td&gt;
+&lt;td&gt; 61.5cm &lt;/td&gt;
+&lt;td&gt; 399,000円 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; HONDA HSS760nJ &lt;/td&gt;
+&lt;td&gt; 60.5cm &lt;/td&gt;
+&lt;td&gt; 410,000円 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; HONDA HSS970nJ &lt;/td&gt;
+&lt;td&gt; 71cm &lt;/td&gt;
+&lt;td&gt; 510,000円 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;&lt;strong&gt;YT660&lt;/strong&gt;：家のまわりを、できるだけ安く除雪したい人に。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1817&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YT660の価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HSS760nJ&lt;/strong&gt;：60cmクラスでホンダを選びたい人に。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1819&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS760nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HSS970nJ&lt;/strong&gt;：駐車場が広く、70cmクラスにしたい人に。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1830&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS970nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。&lt;/p&gt;
+
+&lt;p&gt;ほかの機種と売り切れの情報は、在庫まとめで毎週更新しています。&lt;/p&gt;
+
+&lt;h2 id="あわせて読みたい"&gt;あわせて読みたい&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159"&gt;北海道の除雪機 在庫・価格まとめ（毎週更新）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212"&gt;【北海道】買ってはいけない除雪機3つ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757"&gt;60cm除雪機 YT660とHSS760nJの比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430"&gt;70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154"&gt;除雪機を通販で買う前に、店に聞いておく4つ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000"&gt;ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id="よくある質問"&gt;よくある質問&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Q. 去年の燃料を入れたままにしていた。そのまま使っていい？&lt;/strong&gt;
+A. ヤマハ・Willbeの「よくある質問」では、燃料を抜き取っていない場合は燃料装置内部の詰まりが考えられるとして、販売店などに点検を頼むよう案内しています。かからない場合は、無理にかけ直さず相談してください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q. セルが回らない。故障？&lt;/strong&gt;
+A. まずバッテリーの充電不足が考えられます（ヤマハ・Willbeの案内）。長く置いたバッテリーは、外していても放電するので、使う前に補充電が必要です（Hondaの案内）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q. シャーボルトが折れたら、普通のボルトで代用していい？&lt;/strong&gt;
+A. Hondaは、純正以外のボルトを使うと本機の損傷につながると案内しています。必ず純正の予備を使い、使ったら補充してください。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;※手入れの内容はHonda・ヤマハ・Willbe公式の「よくある質問」（2026年10月19日確認）、価格・在庫は除雪機ネットの掲載情報をもとにしています。。機種ごとの手順は取扱説明書に従ってください。誤りに気づいた方は、コメントで教えてください。
+&lt;span itemscope itemtype="http://schema.org/Photograph"&gt;&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/genbanokarute/20261020/20261020123752.jpg" alt="&amp;#x521D;&amp;#x96EA;&amp;#x524D;&amp;#x306E;&amp;#x78BA;&amp;#x8A8D;4&amp;#x3064;&amp;#xFF08;&amp;#x30A4;&amp;#x30E1;&amp;#x30FC;&amp;#x30B8;&amp;#xFF09;" width="1200" height="630" loading="lazy" title="" class="hatena-fotolife" itemprop="image"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id="参考情報"&gt;参考情報&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.honda.co.jp/customer/power/snow/"&gt;Honda：除雪機 よくあるご質問＆使い方ガイド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://willbe-corp.com/useful/faq/snowblower/"&gt;Willbe：除雪機よくあるご質問&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</ns2:formatted-content>
+
+<ns0:category term="選び方の基本" />
+
+<ns1:control>
+  <ns1:draft>no</ns1:draft>
+  <ns1:preview>no</ns1:preview>
+  
+</ns1:control>
+
+  </ns0:entry>
+  
+  
