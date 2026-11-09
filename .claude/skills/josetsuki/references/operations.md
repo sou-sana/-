@@ -52,6 +52,7 @@
 ## はてなブログAPI（AtomPub）での更新（11/7から稼働）
 - 認証：環境のネットワーク認証情報（blog.hatena.ne.jp、Basic：genbanokarute＋APIキー）をプロキシが自動で付ける。こちらはキーを持たない・見ない。curlはそのまま `https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom/entry` を呼べばよい
 - 更新：GETで元の entry を取り、`josetsuki_blog/backup/<日付>/` に保存 → 本文を置き換え → title・category・updated（元のまま＝投稿日を変えない）・draft を付けてPUT。PUT後に公開ページでボタン数・画像・数字を確認。11/7に11本で成功（変わるのは置き換えた行だけ）
+- **新しい記事の公開（11/9ユーザー許可）**：事実確認と最終監査を通した新記事は、Claudeが直接POSTで公開してよい。公開後にURLと要点を報告し、ユーザーにSearch Consoleの登録リクエストとBingのURL送信を頼む。既存記事の大きな書き換え（タイトル・構成）は、これまでどおり変更点を見せてOKをもらう
 - APIキーや投稿用メールアドレスはチャットに貼らない（11/7に一度貼られたため、ユーザーが投稿用アドレスを変更してキーを再発行済み）
 - 最初は読み取りだけ（記事一覧の取得）で動作確認する
 - 書き込み（記事の更新・新規投稿）は、変更点をユーザーに見せて「OK」をもらってから。削除はしない。更新前の本文は `josetsuki_blog/backup/` に保存してから上書きする
