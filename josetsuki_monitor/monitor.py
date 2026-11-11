@@ -83,6 +83,19 @@ def parse_products(soup, base):
     return products
 
 
+def parse_product_page(soup, url):
+    """商品ページ1件から {name, price, qty, url} を作る（一覧に出ない商品用）。
+    数量はページに出ないので、売り切れ・完売の表示なら0、それ以外は1とする。"""
+    title = soup.find("title")
+    name = clean(title.get_text(" ")) if title else ""
+    text = re.sub(r"\s+", " ", soup.get_text(" "))
+    m = re.search(r"販売価格(.{0,160}?)\(税抜", text)
+    prices = [int(p.replace(",", "")) for p in re.findall(r"([\d,]{4,})円", m.group(1))] if m else []
+    head = text[:m.start()] if m else text
+    sold = bool(re.search(r"売り切れ|完売", name + head[-300:]))
+    return {"name": name, "price": prices[-1] if prices else None, "qty": 0 if sold else 1, "url": url}
+
+
 def parse_ranking(soup):
     lines = [l.strip() for l in soup.get_text("\n").splitlines() if l.strip()]
     ranking = {}
@@ -119,6 +132,12 @@ def collect(cfg):
         soup = fetch(session, url)
     if not products:
         raise RuntimeError("商品を1件も読み取れませんでした。サイトの構造が変わった可能性があります。")
+    # 一覧（ロータリー）に出ない商品は、商品ページを直接読む
+    for pid in cfg.get("extra_ids", []):
+        if pid in products:
+            continue
+        purl = urljoin(cfg["start_url"], f"product_info.php?products_id={pid}")
+        products[pid] = parse_product_page(fetch(session, purl), purl)
     return products, ranking
 
 
