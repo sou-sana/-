@@ -3,7 +3,7 @@
 # 4.vvm = 玄野武宏・剣崎雌雄(ノーマル=style 21)。他の声を使うなら該当 .vvm を追加する。
 set -e
 cd "$(dirname "$0")"
-pip install --break-system-packages -q \
+python3 -m pip install --break-system-packages -q \
   https://github.com/VOICEVOX/voicevox_core/releases/download/0.16.2/voicevox_core-0.16.2-cp310-abi3-manylinux_2_34_x86_64.whl
 mkdir -p vv/models
 cd vv
