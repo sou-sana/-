@@ -118,9 +118,71 @@
    ]
   },
   {
+   "date": "2026-11-14",
+   "items": [
+    "機種横動画を投稿：YSF860（outputs/MF_機種横動画.mp4、貼り付けは 投稿用テキスト_機種横動画.txt）"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "items": [
+    "機種横動画を投稿：SXC1380H（outputs/MS_機種横動画.mp4）"
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "items": [
+    "機種横動画を投稿：SXC1070H（outputs/MW_機種横動画.mp4）"
+   ]
+  },
+  {
    "date": "2026-11-17",
    "items": [
-    "複数AI審査4回目（ヤマハとホンダ記事 /entry/2026/10/27/192434）の成果判定：Search Console（10/27〜11/16、平均掲載順位にチェック）とBingで「ヤマハ」「ホンダ」を含むクエリの行、GA4探索「店へのクリック」をスクショで送る"
+    "複数AI審査4回目（ヤマハとホンダ記事 /entry/2026/10/27/192434）の成果判定：Search Console（10/27〜11/16、平均掲載順位にチェック）とBingで「ヤマハ」「ホンダ」を含むクエリの行、GA4探索「店へのクリック」をスクショで送る",
+    "機種横動画を投稿：YSF1070T（outputs/MT_機種横動画.mp4）",
+    "売り切れショート（11/13投稿）Day4：YouTube Studioで視聴回数・トラフィックソース（ブラウジング／ショートフィード）・継続率、GA4でキャンペーン urikire2 のセッションをスクショで送る。前回の売り切れショートは2日で2,903回"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "items": [
+    "YSF860横動画 Day4：YouTube Studioの表示回数・視聴回数・0:30の視聴維持率、GA4キャンペーン ysf860_long のセッション（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "items": [
+    "SXC1380H横動画 Day4：表示回数・視聴回数・0:30の維持率、GA4 sxc1380h_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "items": [
+    "SXC1070H横動画 Day4：表示回数・視聴回数・0:30の維持率、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "items": [
+    "YSF1070T横動画 Day4／YSF860横動画 Day7：表示回数・視聴回数・YouTube検索からの視聴、GA4 ysf1070t_long・ysf860_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "items": [
+    "SXC1380H横動画 Day7：表示回数・YouTube検索からの視聴、GA4 sxc1380h_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-23",
+   "items": [
+    "SXC1070H横動画 Day7：同上、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "items": [
+    "YSF1070T横動画 Day7 ＋ 機種横動画5本の全体判定（合計セッション3未満なら量産をやめる）（基準は josetsuki_STRATEGY.md 8-2）"
    ]
   },
   {
