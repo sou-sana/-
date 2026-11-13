@@ -92,7 +92,9 @@ def parse_product_page(soup, url):
     m = re.search(r"販売価格(.{0,160}?)\(税抜", text)
     prices = [int(p.replace(",", "")) for p in re.findall(r"([\d,]{4,})円", m.group(1))] if m else []
     head = text[:m.start()] if m else text
-    sold = bool(re.search(r"売り切れ|完売", name + head[-300:]))
+    # 売り切れ・完売は、ページ下側の価格「(税抜：…円)」のすぐ後ろに出る（11/13、YT1070のページで確認）
+    after = [text[a.end():a.end() + 20] for a in re.finditer(r"\(税抜：[\d,]+円\)", text)]
+    sold = bool(re.search(r"売り切れ|完売", name + head[-300:] + " ".join(after)))
     return {"name": name, "price": prices[-1] if prices else None, "qty": 0 if sold else 1, "url": url}
 
 
