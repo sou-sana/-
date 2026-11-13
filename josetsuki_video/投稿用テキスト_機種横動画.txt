@@ -1,80 +1,32 @@
-機種横動画5本 投稿用テキスト（11/12作成）
-投稿は5本とも今日〜明日で出してよい（キャンペーン名が1本ずつ違うので、同じ日に出しても判定は混ざらない）。投稿日をDay0として記録する
+投稿用テキスト（11/13更新：YT1070売り切れのため、YT1070の横動画はやめて売り切れショートに差し替え）
+投稿は1日1本。11/13 売り切れショート → 11/14 YSF860 → 11/15 SXC1380H → 11/16 SXC1070H → 11/17 YSF1070T。投稿日をDay0として記録する
 設定：有料プロモーションにチェック／音声VOICEVOX表記は概要欄に入れ済み
 
-■■■ MY（動画：outputs/MY_機種横動画.mp4／サムネ：outputs/thumb_MY.jpg） ■■■
+■■■ 売り切れショート（11/13。動画：outputs/70cmで一番安い除雪機が売り切れ_ショート.mp4） ■■■
 
 【タイトル】
-ヤマハ除雪機YT1070は48万円｜70cmで一番安い家庭用、北海道までの総額は？
+70cmで一番安い除雪機が売り切れ｜次に安いのは？ #除雪機 #北海道 #家庭用除雪機
 
-【概要欄】
-▼くわしい比較・最新の在庫（販売ページへのリンクあり）
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204525?utm_source=youtube&utm_medium=video&utm_campaign=yt1070_long
+【説明】
+▼70cmクラスで今買える機種と、札幌までの総額
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/04/093129?utm_source=youtube&utm_medium=shorts&utm_campaign=urikire2
 ※この動画にはアフィリエイト広告(PR)を含みます。
 
-70cmクラスで一番安い48万円のYT1070（ヤマハ表記・現ウィルビー）。
-公式の数字、札幌までの総額の目安、ホンダHSS970nJとの違いを2分でまとめました。
-
-▼予算・固い雪・静かさで選ぶなら：北海道の家庭用除雪機おすすめ6台
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/04/093129?utm_source=youtube&utm_medium=video&utm_campaign=yt1070_long
-
-価格・在庫は2026年11月12日時点で除雪機ネットに掲載されていた情報です。送料は札幌市まで営業所止めの概算です。購入前に販売ページで最新情報をご確認ください。
-
-0:00 YT1070はどんな除雪機？
-0:17 公式の数字
-0:43 北海道までの総額
-1:03 ホンダHSS970nJと比べる
-1:31 向く人・ほかの候補
+除雪機ネットで、70cmクラスでいちばん安かったヤマハYT1070（48万円）が、11月13日に売り切れ表示になりました。
+70cmクラスで次に安いのは、ホンダHSS970nJ（51万円・予約受付中）です（11月13日時点）。
+在庫は通販店1店の掲載表示です。購入前に販売ページで最新情報をご確認ください。
+70cmクラスの比較は関連動画をご覧ください。
 
 音声:VOICEVOX:剣崎雌雄
 
-#除雪機 #北海道 #家庭用除雪機
-
-【タグ】
-YT1070,ヤマハ除雪機,ウィルビー,家庭用除雪機,70cm除雪機,北海道,除雪機 おすすめ,HSS970nJ
+#除雪機 #北海道 #売り切れ #shorts
 
 【固定コメント】
-公式の数字と北海道までの総額は、こちらの記事にまとめています。
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204525?utm_source=youtube&utm_medium=comment&utm_campaign=yt1070_long
+あなたが考えているのは何cmの除雪機ですか？コメントで教えてください。
 
-あなたの家の駐車場は何台分ですか？コメントで教えてください。
-
-■■■ MS（動画：outputs/MS_機種横動画.mp4／サムネ：outputs/thumb_MS.jpg） ■■■
-
-【タイトル】
-和同SXC1380H｜80cmでホンダより6.2万円安い家庭用除雪機【北海道】
-
-【概要欄】
-▼くわしい比較・最新の在庫（販売ページへのリンクあり）
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204333?utm_source=youtube&utm_medium=video&utm_campaign=sxc1380h_long
-※この動画にはアフィリエイト広告(PR)を含みます。
-
-和同（Wado）の80cm除雪機SXC1380H、79万8千円。
-電動サイドクラッチ・オーガローリング・バックオートリフトの特徴と、ホンダHSM1380iJNとの違いを2分でまとめました。
-
-▼予算・固い雪・静かさで選ぶなら：北海道の家庭用除雪機おすすめ6台
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/04/093129?utm_source=youtube&utm_medium=video&utm_campaign=sxc1380h_long
-
-価格・在庫は2026年11月12日時点で除雪機ネットに掲載されていた情報です。送料は札幌市まで営業所止めの概算です。購入前に販売ページで最新情報をご確認ください。
-
-0:00 SXC1380Hはどんな除雪機？
-0:17 公式の数字
-0:37 操作が楽になる3つの機能
-1:00 ホンダHSM1380iJNと比べる
-1:26 向く人・ほかの候補
-
-音声:VOICEVOX:剣崎雌雄
-
-#除雪機 #北海道 #家庭用除雪機
-
-【タグ】
-SXC1380H,和同,ワドー,家庭用除雪機,80cm除雪機,北海道,HSM1380i,除雪機 比較
-
-【固定コメント】
-公式の数字と北海道までの総額は、こちらの記事にまとめています。
-https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204333?utm_source=youtube&utm_medium=comment&utm_campaign=sxc1380h_long
-
-今お使いの除雪機は何センチですか？コメントで教えてください。
+【設定】
+関連動画: 70cm横動画(HSS970nJ・SXC1070H・YSF1070T)
+「有料プロモーション」: チェックを入れる
 
 ■■■ MF（動画：outputs/MF_機種横動画.mp4／サムネ：outputs/thumb_MF.jpg） ■■■
 
@@ -113,6 +65,43 @@ https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/211126?utm_source=youtube
 
 あなたは何時ごろ除雪しますか？コメントで教えてください。
 
+■■■ MS（動画：outputs/MS_機種横動画.mp4／サムネ：outputs/thumb_MS.jpg） ■■■
+
+【タイトル】
+和同SXC1380H｜80cmでホンダより6.2万円安い家庭用除雪機【北海道】
+
+【概要欄】
+▼くわしい比較・最新の在庫（販売ページへのリンクあり）
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204333?utm_source=youtube&utm_medium=video&utm_campaign=sxc1380h_long
+※この動画にはアフィリエイト広告(PR)を含みます。
+
+和同（Wado）の80cm除雪機SXC1380H、79万8千円。
+電動サイドクラッチ・オーガローリング・バックオートリフトの特徴と、ホンダHSM1380iJNとの違いを2分でまとめました。
+
+▼予算・固い雪・静かさで選ぶなら：北海道の家庭用除雪機おすすめ6台
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/04/093129?utm_source=youtube&utm_medium=video&utm_campaign=sxc1380h_long
+
+価格・在庫は2026年11月12日時点で除雪機ネットに掲載されていた情報です。送料は札幌市まで営業所止めの概算です。購入前に販売ページで最新情報をご確認ください。
+
+0:00 SXC1380Hはどんな除雪機？
+0:17 公式の数字
+0:37 操作が楽になる3つの機能
+1:00 ホンダHSM1380iJNと比べる
+1:26 向く人・ほかの候補
+
+音声:VOICEVOX:剣崎雌雄
+
+#除雪機 #北海道 #家庭用除雪機
+
+【タグ】
+SXC1380H,和同,ワドー,家庭用除雪機,80cm除雪機,北海道,HSM1380i,除雪機 比較
+
+【固定コメント】
+公式の数字と北海道までの総額は、こちらの記事にまとめています。
+https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/09/204333?utm_source=youtube&utm_medium=comment&utm_campaign=sxc1380h_long
+
+今お使いの除雪機は何センチですか？コメントで教えてください。
+
 ■■■ MW（動画：outputs/MW_機種横動画.mp4／サムネ：outputs/thumb_MW.jpg） ■■■
 
 【タイトル】
@@ -135,7 +124,7 @@ https://josetsuki-hokkaido.hateblo.jp/entry/2026/11/04/093129?utm_source=youtube
 0:18 公式の数字と電動操作
 0:42 北海道までの総額
 0:58 70cmクラスの価格を並べる
-1:24 向く人・ほかの候補
+1:27 向く人・ほかの候補
 
 音声:VOICEVOX:剣崎雌雄
 

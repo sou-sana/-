@@ -1,0 +1,395 @@
+<ns0:entry xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.w3.org/2007/app" xmlns:ns2="http://www.hatena.ne.jp/info/xmlns#">
+<ns0:id>tag:blog.hatena.ne.jp,2013:blog-genbanokarute-14945776032085478800-14945776032089745379</ns0:id>
+<ns0:link rel="edit" href="https://blog.hatena.ne.jp/genbanokarute/josetsuki-hokkaido.hateblo.jp/atom/entry/14945776032089745379" />
+<ns0:link rel="alternate" type="text/html" href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/201212" />
+
+<ns0:author><ns0:name>genbanokarute</ns0:name></ns0:author>
+<ns0:title>【北海道】買ってはいけない除雪機3つ｜公式の数字で見る失敗しない選び方【2026年】</ns0:title>
+<ns0:updated>2026-10-13T20:12:12+09:00</ns0:updated>
+<ns0:published>2026-10-13T20:12:12+09:00</ns0:published>
+<ns1:edited>2026-11-07T19:14:27+09:00</ns1:edited>
+<ns0:summary type="text">当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。 このサイトについて：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていま…</ns0:summary>
+<ns0:content type="text/x-markdown">当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。
+
+&lt;div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"&gt;&lt;strong&gt;このサイトについて&lt;/strong&gt;：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。&lt;/div&gt;
+
+**最終更新：2026年10月16日**（価格・在庫は除雪機ネットの10月16日時点の掲載情報）
+
+&gt; **この記事でわかること**
+&gt;
+&gt; - 北海道で「買ってはいけない除雪機」の3つの特徴（理由はすべてメーカー公式の数字で確認）
+&gt; - 「〇馬力帯」などの呼び名と、公式の最大出力の違い
+&gt; - 今、在庫があって公式の数字を確認できた家庭用除雪機
+
+除雪機は40万〜90万円の大きな買い物です。「買ってはいけない除雪機」はよく話題になりますが、根拠が書かれていないことも少なくありません。この記事では、**メーカー公式の数字で確かめられる理由だけ**に絞って整理しました。
+
+## 先に結論：買ってはいけない除雪機3つ
+
+| | 買ってはいけない除雪機 | 代わりに確認すること |
+|---|---|---|
+| ① | 「〇馬力」の数字だけで選んだ除雪機 | メーカー公式の**最大出力（PS・kW）** |
+| ② | 除雪高が、家のまわりの雪に足りない除雪機 | 公式の**除雪高**（一度に崩せる雪の高さ） |
+| ③ | 近くに修理・点検できる店がない除雪機 | 近くの**サービス店**が受けてくれるか |
+
+どれも「機種そのものが悪い」という話ではありません。**自分の家に合わないまま買ってしまう**のが失敗のもとです。
+
+## ① 「〇馬力」の呼び名だけで選んだ除雪機
+
+除雪機は「〇馬力帯」「〇馬力クラス」といった呼び名で紹介されることが多いですが、**呼び名の数字と最大出力は同じとは限りません**。Willbe（旧ヤマハモデル）の公式情報だけで比べても、次のようになります。
+
+| 機種 | Willbe公式の区分 | 公式の最大出力 |
+|---|---|---|
+| YT660 | 6馬力帯 | 4.8PS |
+| YSF860 | 8馬力帯 | **9.3PS（6.8kW）** |
+| YSF1070T | 10馬力帯 | **9.4PS（6.9kW）** |
+
+「8馬力帯」のYSF860と「10馬力帯」のYSF1070Tは、最大出力がほぼ同じです。違いは主に除雪幅（61.5cmと71.5cm）です。
+
+呼び名どうしで「8より10が上」と比べると、実際とずれることがあります。メーカーが違う機種を比べるときはなおさらです。**比べるときは、各メーカー公式の主要諸元にある最大出力（PS・kW）どうしで**比べましょう。
+
+## ② 除雪高が足りない除雪機
+
+除雪高は、オーガ（雪をかき込む回転部）の入口の高さで、**一度に崩せる雪の深さの目安**です。これを超える雪は、何回かに分けて削ることになります。
+
+| 機種 | 除雪高 | 出典 |
+|---|---|---|
+| 通販で人気の電動・充電式 | 多くが30cm以下（15〜30cm程度） | 大手比較サイトの掲載値 |
+| HONDA HSS760nJ | 42cm | Honda公式 |
+| Willbe YT660 | 44cm（新雪時） | Willbe公式 |
+| YAMAHA YSF1070T | 51cm（新雪時） | ヤマハ公式 |
+
+※Willbe・ヤマハは、公式で「最大除雪高の目安（オーガを最大まで上げた新雪時）」「新雪」「固まった雪」の3つを示しています。例えばYSF860は53cm／44cm／31cm、YSF1070Tは60cm／51cm／35cmです。この表は「新雪」の値でそろえています。
+
+電動・充電式は軽くて静かという良さがありますが、**北海道で一晩に積もる雪や、除雪車が置いていく固い雪には、除雪高が足りない場面が出やすい**と考えられます（推測）。玄関先だけならともかく、駐車場の除雪の主力にするなら、除雪高40cm以上のエンジン式が候補になります。
+
+## ③ 近くに修理・点検できる店がない除雪機
+
+除雪機が止まって困るのは、たいてい大雪の日です。ヤマハ公式サイトでも、使用中の除雪機の整備・修理・部品は「購入した販売店」か「サービスパートナー店」に相談するよう案内しています。
+
+つまり、**近くで修理を受けてくれる店があるかどうか**で、故障したときの困り方が大きく変わります。通販で買う場合も、購入前に次の2つを確認しておきましょう。
+
+- 近くに、そのメーカーの点検・修理を受けてくれる店があるか
+- 保証の問い合わせ先はどこか（販売店か、メーカーか）
+
+送料・荷下ろし・初期不良の期限など、通販で買う前に店に聞いておくことは、[除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)にまとめています。
+
+ヤマハの除雪機事業がWillbeに移った件は、[ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)にまとめています。
+
+## では、何を選べばいい？（10月16日時点で在庫・予約がある機種）
+
+公式の最大出力と除雪高（40cm以上）を確認でき、除雪機ネットで在庫がある、または予約を受け付けている機種です。
+
+| 機種 | 除雪幅 | 最大出力（公式） | 価格 | 在庫表示 |
+|---|---|---|---|---|
+| Willbe YT660 | 61.5cm | 4.8PS | 399,000円 | 早期予約受付中 |
+| HONDA HSS760nJ | 60.5cm | 5.8PS | 410,000円 | 予約受付中 |
+| Willbe YSF860 | 61.5cm | 9.3PS | 540,000円 | 要問い合わせ |
+| YAMAHA YSF1070T | 71.5cm | 9.4PS | 680,000円 | 残り僅か |
+
+**Willbe YT660**：予算を40万円以内に収めたい人に。60cmクラスでいちばん安い組み合わせです。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1817&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YT660の価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。
+
+**HONDA HSS760nJ**：YT660と1.1万円差で、出力が1PS大きいホンダ機を選びたい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1819&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS760nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+**Willbe YSF860**：60cmの大きさで、70cmクラス並みの出力（9.3PS）と静音設計がほしい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=2248&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YSF860の価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+**YAMAHA YSF1070T**：70cmクラスで静音設計と、スイッチで旋回できる「イージーターン」がほしい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1809&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YSF1070Tの価格と在庫を見る（除雪機ネット）&lt;/a&gt;
+
+※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。
+
+## あわせて読みたい
+
+- [北海道の除雪機 在庫・価格まとめ（毎週更新）](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159)
+- [60cm除雪機 YT660とHSS760nJの比較](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757)
+- [70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430)
+- [除雪機を通販で買う前に、店に聞いておく4つ](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154)
+- [ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは](https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000)
+
+## 使うときの注意：詰まりを取るときは必ずエンジンを止める
+
+シューターやオーガに詰まった雪を取るときは、**必ずエンジンを止め、回転が完全に止まってから**、雪かき棒などの道具を使って取り除いてください。手や足を入れるのは絶対にやめましょう。
+
+## よくある質問
+
+**Q. 電動・充電式は北海道では使えない？**
+A. 使えないわけではありません。玄関先の薄い雪なら便利です。ただ、駐車場の除雪の主力にするには除雪高が足りない場面が出やすいので、エンジン式と比べてから選びましょう。
+
+**Q. 最大出力はどこで確認できる？**
+A. メーカー公式サイトの「主要諸元（仕様）」にある「最大出力」です。PSまたはkWで書かれています。
+
+---
+
+※仕様はHonda・ヤマハ・Willbeの公式情報、価格・在庫は除雪機ネットの掲載情報をもとにしています。当サイトは実機テストを行っていません。誤りに気づいた方は、コメントで教えてください。
+[f:id:genbanokarute:20261019212526j:plain:alt=買ってはいけない除雪機3つ（イメージ画像）]
+### 参考情報
+
+- [Honda：HSS760n 一部改良（主要諸元）](https://global.honda/jp/news/2021/p210331-hss760n.html)
+- [ヤマハ発動機：YSF860](https://www.yamaha-motor.co.jp/snowblower/lineup/ysf860/)
+- [ヤマハ発動機：YSF1070T](https://www.yamaha-motor.co.jp/snowblower/lineup/ysf1070t/)
+- [Willbe：YT660](https://willbe-corp.com/products/earthpower/yt660/)
+- [Willbe：YSF860](https://willbe-corp.com/products/earthpower/ysf860/)
+- [ヤマハ発動機：ご使用中のQ&amp;A](https://www.yamaha-motor.co.jp/snowblower/qa/0003.html)
+</ns0:content>
+<ns2:formatted-content type="text/html">&lt;p&gt;当サイトでは、商品の紹介・比較にアフィリエイト広告を利用しています。記事内のリンクから商品を購入された場合、当サイトに報酬が入ることがあります。&lt;/p&gt;
+
+&lt;div style="border:2px solid #0d2a47;border-radius:8px;padding:10px 12px;margin:12px 0;font-size:90%;line-height:1.7;"&gt;&lt;strong&gt;このサイトについて&lt;/strong&gt;：札幌在住の運営者が、メーカー公式の数字と、毎日チェックしている在庫情報で除雪機を比べています。実機テストはしていません。送料や在庫は日付つきで書き、間違いは更新履歴に残して直します。&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;最終更新：2026年10月16日&lt;/strong&gt;（価格・在庫は除雪機ネットの10月16日時点の掲載情報）&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;この記事でわかること&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;北海道で「買ってはいけない除雪機」の3つの特徴（理由はすべてメーカー公式の数字で確認）&lt;/li&gt;
+&lt;li&gt;「〇馬力帯」などの呼び名と、公式の最大出力の違い&lt;/li&gt;
+&lt;li&gt;今、在庫があって公式の数字を確認できた家庭用除雪機&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;除雪機は40万〜90万円の大きな買い物です。「買ってはいけない除雪機」はよく話題になりますが、根拠が書かれていないことも少なくありません。この記事では、&lt;strong&gt;メーカー公式の数字で確かめられる理由だけ&lt;/strong&gt;に絞って整理しました。&lt;/p&gt;
+
+&lt;h2 id="先に結論買ってはいけない除雪機3つ"&gt;先に結論：買ってはいけない除雪機3つ&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; &lt;/th&gt;
+&lt;th&gt; 買ってはいけない除雪機 &lt;/th&gt;
+&lt;th&gt; 代わりに確認すること &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; ① &lt;/td&gt;
+&lt;td&gt; 「〇馬力」の数字だけで選んだ除雪機 &lt;/td&gt;
+&lt;td&gt; メーカー公式の&lt;strong&gt;最大出力（PS・kW）&lt;/strong&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; ② &lt;/td&gt;
+&lt;td&gt; 除雪高が、家のまわりの雪に足りない除雪機 &lt;/td&gt;
+&lt;td&gt; 公式の&lt;strong&gt;除雪高&lt;/strong&gt;（一度に崩せる雪の高さ） &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; ③ &lt;/td&gt;
+&lt;td&gt; 近くに修理・点検できる店がない除雪機 &lt;/td&gt;
+&lt;td&gt; 近くの&lt;strong&gt;サービス店&lt;/strong&gt;が受けてくれるか &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;どれも「機種そのものが悪い」という話ではありません。&lt;strong&gt;自分の家に合わないまま買ってしまう&lt;/strong&gt;のが失敗のもとです。&lt;/p&gt;
+
+&lt;h2 id="-〇馬力の呼び名だけで選んだ除雪機"&gt;① 「〇馬力」の呼び名だけで選んだ除雪機&lt;/h2&gt;
+
+&lt;p&gt;除雪機は「〇馬力帯」「〇馬力クラス」といった呼び名で紹介されることが多いですが、&lt;strong&gt;呼び名の数字と最大出力は同じとは限りません&lt;/strong&gt;。Willbe（旧ヤマハモデル）の公式情報だけで比べても、次のようになります。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; 機種 &lt;/th&gt;
+&lt;th&gt; Willbe公式の区分 &lt;/th&gt;
+&lt;th&gt; 公式の最大出力 &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; YT660 &lt;/td&gt;
+&lt;td&gt; 6馬力帯 &lt;/td&gt;
+&lt;td&gt; 4.8PS &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; YSF860 &lt;/td&gt;
+&lt;td&gt; 8馬力帯 &lt;/td&gt;
+&lt;td&gt; &lt;strong&gt;9.3PS（6.8kW）&lt;/strong&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; YSF1070T &lt;/td&gt;
+&lt;td&gt; 10馬力帯 &lt;/td&gt;
+&lt;td&gt; &lt;strong&gt;9.4PS（6.9kW）&lt;/strong&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;「8馬力帯」のYSF860と「10馬力帯」のYSF1070Tは、最大出力がほぼ同じです。違いは主に除雪幅（61.5cmと71.5cm）です。&lt;/p&gt;
+
+&lt;p&gt;呼び名どうしで「8より10が上」と比べると、実際とずれることがあります。メーカーが違う機種を比べるときはなおさらです。&lt;strong&gt;比べるときは、各メーカー公式の主要諸元にある最大出力（PS・kW）どうしで&lt;/strong&gt;比べましょう。&lt;/p&gt;
+
+&lt;h2 id="-除雪高が足りない除雪機"&gt;② 除雪高が足りない除雪機&lt;/h2&gt;
+
+&lt;p&gt;除雪高は、オーガ（雪をかき込む回転部）の入口の高さで、&lt;strong&gt;一度に崩せる雪の深さの目安&lt;/strong&gt;です。これを超える雪は、何回かに分けて削ることになります。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; 機種 &lt;/th&gt;
+&lt;th&gt; 除雪高 &lt;/th&gt;
+&lt;th&gt; 出典 &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; 通販で人気の電動・充電式 &lt;/td&gt;
+&lt;td&gt; 多くが30cm以下（15〜30cm程度） &lt;/td&gt;
+&lt;td&gt; 大手比較サイトの掲載値 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; HONDA HSS760nJ &lt;/td&gt;
+&lt;td&gt; 42cm &lt;/td&gt;
+&lt;td&gt; Honda公式 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; Willbe YT660 &lt;/td&gt;
+&lt;td&gt; 44cm（新雪時） &lt;/td&gt;
+&lt;td&gt; Willbe公式 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; YAMAHA YSF1070T &lt;/td&gt;
+&lt;td&gt; 51cm（新雪時） &lt;/td&gt;
+&lt;td&gt; ヤマハ公式 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;※Willbe・ヤマハは、公式で「最大除雪高の目安（オーガを最大まで上げた新雪時）」「新雪」「固まった雪」の3つを示しています。例えばYSF860は53cm／44cm／31cm、YSF1070Tは60cm／51cm／35cmです。この表は「新雪」の値でそろえています。&lt;/p&gt;
+
+&lt;p&gt;電動・充電式は軽くて静かという良さがありますが、&lt;strong&gt;北海道で一晩に積もる雪や、除雪車が置いていく固い雪には、除雪高が足りない場面が出やすい&lt;/strong&gt;と考えられます（推測）。玄関先だけならともかく、駐車場の除雪の主力にするなら、除雪高40cm以上のエンジン式が候補になります。&lt;/p&gt;
+
+&lt;h2 id="-近くに修理点検できる店がない除雪機"&gt;③ 近くに修理・点検できる店がない除雪機&lt;/h2&gt;
+
+&lt;p&gt;除雪機が止まって困るのは、たいてい大雪の日です。ヤマハ公式サイトでも、使用中の除雪機の整備・修理・部品は「購入した販売店」か「サービスパートナー店」に相談するよう案内しています。&lt;/p&gt;
+
+&lt;p&gt;つまり、&lt;strong&gt;近くで修理を受けてくれる店があるかどうか&lt;/strong&gt;で、故障したときの困り方が大きく変わります。通販で買う場合も、購入前に次の2つを確認しておきましょう。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;近くに、そのメーカーの点検・修理を受けてくれる店があるか&lt;/li&gt;
+&lt;li&gt;保証の問い合わせ先はどこか（販売店か、メーカーか）&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;送料・荷下ろし・初期不良の期限など、通販で買う前に店に聞いておくことは、&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154"&gt;除雪機を通販で買う前に、店に聞いておく4つ&lt;/a&gt;にまとめています。&lt;/p&gt;
+
+&lt;p&gt;ヤマハの除雪機事業がWillbeに移った件は、&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000"&gt;ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは&lt;/a&gt;にまとめています。&lt;/p&gt;
+
+&lt;h2 id="では何を選べばいい10月16日時点で在庫予約がある機種"&gt;では、何を選べばいい？（10月16日時点で在庫・予約がある機種）&lt;/h2&gt;
+
+&lt;p&gt;公式の最大出力と除雪高（40cm以上）を確認でき、除雪機ネットで在庫がある、または予約を受け付けている機種です。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt; 機種 &lt;/th&gt;
+&lt;th&gt; 除雪幅 &lt;/th&gt;
+&lt;th&gt; 最大出力（公式） &lt;/th&gt;
+&lt;th&gt; 価格 &lt;/th&gt;
+&lt;th&gt; 在庫表示 &lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt; Willbe YT660 &lt;/td&gt;
+&lt;td&gt; 61.5cm &lt;/td&gt;
+&lt;td&gt; 4.8PS &lt;/td&gt;
+&lt;td&gt; 399,000円 &lt;/td&gt;
+&lt;td&gt; 早期予約受付中 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; HONDA HSS760nJ &lt;/td&gt;
+&lt;td&gt; 60.5cm &lt;/td&gt;
+&lt;td&gt; 5.8PS &lt;/td&gt;
+&lt;td&gt; 410,000円 &lt;/td&gt;
+&lt;td&gt; 予約受付中 &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; Willbe YSF860 &lt;/td&gt;
+&lt;td&gt; 61.5cm &lt;/td&gt;
+&lt;td&gt; 9.3PS &lt;/td&gt;
+&lt;td&gt; 540,000円 &lt;/td&gt;
+&lt;td&gt; 要問い合わせ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; YAMAHA YSF1070T &lt;/td&gt;
+&lt;td&gt; 71.5cm &lt;/td&gt;
+&lt;td&gt; 9.4PS &lt;/td&gt;
+&lt;td&gt; 680,000円 &lt;/td&gt;
+&lt;td&gt; 残り僅か &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Willbe YT660&lt;/strong&gt;：予算を40万円以内に収めたい人に。60cmクラスでいちばん安い組み合わせです。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1817&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YT660の価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;※ボタンの先は除雪機ネットの販売ページです。表示価格は本体価格で、北海道は送料が別にかかります（札幌市まで営業所止めで約6万円の例。2026年10月の問い合わせ）。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HONDA HSS760nJ&lt;/strong&gt;：YT660と1.1万円差で、出力が1PS大きいホンダ機を選びたい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1819&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;HSS760nJの価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Willbe YSF860&lt;/strong&gt;：60cmの大きさで、70cmクラス並みの出力（9.3PS）と静音設計がほしい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=2248&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YSF860の価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;YAMAHA YSF1070T&lt;/strong&gt;：70cmクラスで静音設計と、スイッチで旋回できる「イージーターン」がほしい人に。
+&lt;a href="https://josetsuki.net/catalog/product_info.php?ref=37&amp;products_id=1809&amp;affiliate_banner_id=1" style="display:block;background:#f26b0f;color:#fff;text-align:center;padding:14px 8px;border-radius:8px;font-weight:bold;text-decoration:none;margin:10px 0;"&gt;YSF1070Tの価格と在庫を見る（除雪機ネット）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;※価格・在庫は除雪機ネットの掲載情報です。今季はすでに、HSS1370iJ・HSS960iJ・YT660B・HSS655cJEが売り切れています（YT1070は10月16日に掲載が再開）。購入前に販売ページで最新情報をご確認ください。&lt;/p&gt;
+
+&lt;h2 id="あわせて読みたい"&gt;あわせて読みたい&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/05/210159"&gt;北海道の除雪機 在庫・価格まとめ（毎週更新）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/08/170757"&gt;60cm除雪機 YT660とHSS760nJの比較&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/06/221430"&gt;70cm除雪機3機種比較｜HSS970nJ・SXC1070H・YSF1070T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/16/201154"&gt;除雪機を通販で買う前に、店に聞いておく4つ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://josetsuki-hokkaido.hateblo.jp/entry/2026/10/13/175000"&gt;ヤマハの除雪機はもう買えない？旧ヤマハモデル（Willbe）とは&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 id="使うときの注意詰まりを取るときは必ずエンジンを止める"&gt;使うときの注意：詰まりを取るときは必ずエンジンを止める&lt;/h2&gt;
+
+&lt;p&gt;シューターやオーガに詰まった雪を取るときは、&lt;strong&gt;必ずエンジンを止め、回転が完全に止まってから&lt;/strong&gt;、雪かき棒などの道具を使って取り除いてください。手や足を入れるのは絶対にやめましょう。&lt;/p&gt;
+
+&lt;h2 id="よくある質問"&gt;よくある質問&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Q. 電動・充電式は北海道では使えない？&lt;/strong&gt;
+A. 使えないわけではありません。玄関先の薄い雪なら便利です。ただ、駐車場の除雪の主力にするには除雪高が足りない場面が出やすいので、エンジン式と比べてから選びましょう。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q. 最大出力はどこで確認できる？&lt;/strong&gt;
+A. メーカー公式サイトの「主要諸元（仕様）」にある「最大出力」です。PSまたはkWで書かれています。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;※仕様はHonda・ヤマハ・Willbeの公式情報、価格・在庫は除雪機ネットの掲載情報をもとにしています。当サイトは実機テストを行っていません。誤りに気づいた方は、コメントで教えてください。
+&lt;span itemscope itemtype="http://schema.org/Photograph"&gt;&lt;img src="https://cdn-ak.f.st-hatena.com/images/fotolife/g/genbanokarute/20261019/20261019212526.jpg" alt="&amp;#x8CB7;&amp;#x3063;&amp;#x3066;&amp;#x306F;&amp;#x3044;&amp;#x3051;&amp;#x306A;&amp;#x3044;&amp;#x9664;&amp;#x96EA;&amp;#x6A5F;3&amp;#x3064;&amp;#xFF08;&amp;#x30A4;&amp;#x30E1;&amp;#x30FC;&amp;#x30B8;&amp;#x753B;&amp;#x50CF;&amp;#xFF09;" width="1200" height="630" loading="lazy" title="" class="hatena-fotolife" itemprop="image"&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id="参考情報"&gt;参考情報&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://global.honda/jp/news/2021/p210331-hss760n.html"&gt;Honda：HSS760n 一部改良（主要諸元）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.yamaha-motor.co.jp/snowblower/lineup/ysf860/"&gt;ヤマハ発動機：YSF860&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.yamaha-motor.co.jp/snowblower/lineup/ysf1070t/"&gt;ヤマハ発動機：YSF1070T&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://willbe-corp.com/products/earthpower/yt660/"&gt;Willbe：YT660&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://willbe-corp.com/products/earthpower/ysf860/"&gt;Willbe：YSF860&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.yamaha-motor.co.jp/snowblower/qa/0003.html"&gt;ヤマハ発動機：ご使用中のQ&amp;amp;A&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</ns2:formatted-content>
+
+<ns0:category term="選び方の基本" />
+
+<ns1:control>
+  <ns1:draft>no</ns1:draft>
+  <ns1:preview>no</ns1:preview>
+  
+</ns1:control>
+
+  </ns0:entry>
+  
+  
