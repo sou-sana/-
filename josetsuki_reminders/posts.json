@@ -160,13 +160,15 @@
   {
    "date": "2026-11-18",
    "items": [
-    "YSF860横動画 Day4：YouTube Studioの表示回数・視聴回数・0:30の視聴維持率、GA4キャンペーン ysf860_long のセッション（基準は josetsuki_STRATEGY.md 8-2）"
+    "YSF860横動画 Day4：YouTube Studioの表示回数・視聴回数・0:30の視聴維持率、GA4キャンペーン ysf860_long のセッション（基準は josetsuki_STRATEGY.md 8-2）",
+    "機種横動画を投稿：HSS970nJ（outputs/MH_機種横動画.mp4、字幕 字幕_MH_HSS970nJ.srt）。ただし先にYSF860のDay4を送って、記事への流入が0なら投稿しない"
    ]
   },
   {
    "date": "2026-11-19",
    "items": [
-    "今週売り切れショート（11/15投稿）Day4：YouTube Studioで視聴回数・トラフィックソース・継続率、GA4でキャンペーン urikire3 のセッションをスクショで送る"
+    "今週売り切れショート（11/15投稿）Day4：YouTube Studioで視聴回数・トラフィックソース・継続率、GA4でキャンペーン urikire3 のセッションをスクショで送る",
+    "機種横動画を投稿：YT660（outputs/MK_機種横動画.mp4、字幕 字幕_MK_YT660.srt）"
    ]
   },
   {
@@ -182,9 +184,16 @@
    ]
   },
   {
+   "date": "2026-11-22",
+   "items": [
+    "HSS970nJ横動画 Day4：表示回数・視聴回数・YouTube検索からの視聴・維持率、GA4 hss970nj_long（基準は josetsuki_STRATEGY.md 8-2）"
+   ]
+  },
+  {
    "date": "2026-11-23",
    "items": [
-    "SXC1070H横動画 Day7：同上、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）"
+    "SXC1070H横動画 Day7：同上、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）",
+    "YT660横動画 Day4：同上、GA4 yt660_long"
    ]
   },
   {
