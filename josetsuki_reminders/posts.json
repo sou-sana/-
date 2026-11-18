@@ -80,6 +80,11 @@
    "date": "2026-11-16",
    "type": "long",
    "title": "横動画 和同SXC1070H｜70cmで電動旋回、58万円（utm: sxc1070h_long）"
+  },
+  {
+   "date": "2026-11-18",
+   "type": "long",
+   "title": "横動画 YSF1070T｜5万円値上がりした70cm静音除雪機（utm: ysf1070t_long）"
   }
  ],
  "todos": [
@@ -160,15 +165,13 @@
   {
    "date": "2026-11-18",
    "items": [
-    "YSF860横動画 Day4：YouTube Studioの表示回数・視聴回数・0:30の視聴維持率、GA4キャンペーン ysf860_long のセッション（基準は josetsuki_STRATEGY.md 8-2）",
-    "機種横動画を投稿：HSS970nJ（outputs/MH_機種横動画.mp4、字幕 字幕_MH_HSS970nJ.srt）。ただし先にYSF860のDay4を送って、記事への流入が0なら投稿しない"
+    "YSF860横動画 Day4：YouTube Studioの表示回数・視聴回数・0:30の視聴維持率、GA4キャンペーン ysf860_long のセッション（基準は josetsuki_STRATEGY.md 8-2）"
    ]
   },
   {
    "date": "2026-11-19",
    "items": [
-    "今週売り切れショート（11/15投稿）Day4：YouTube Studioで視聴回数・トラフィックソース・継続率、GA4でキャンペーン urikire3 のセッションをスクショで送る",
-    "機種横動画を投稿：YT660（outputs/MK_機種横動画.mp4、字幕 字幕_MK_YT660.srt）"
+    "今週売り切れショート（11/15投稿）Day4：YouTube Studioで視聴回数・トラフィックソース・継続率、GA4でキャンペーン urikire3 のセッションをスクショで送る"
    ]
   },
   {
@@ -180,32 +183,32 @@
   {
    "date": "2026-11-21",
    "items": [
-    "YSF1070T横動画 Day4／YSF860横動画 Day7：表示回数・視聴回数・YouTube検索からの視聴、GA4 ysf1070t_long・ysf860_long（基準は josetsuki_STRATEGY.md 8-2）"
+    "YSF860横動画 Day7：GA4「Google以外のキャンペーン」（期間11/13〜今日）で ysf860_long・sxc1070h_long。どちらかが1以上なら、保留中のHSS970nJ横動画（outputs/MH_機種横動画.mp4）を投稿する"
    ]
   },
   {
    "date": "2026-11-22",
    "items": [
-    "HSS970nJ横動画 Day4：表示回数・視聴回数・YouTube検索からの視聴・維持率、GA4 hss970nj_long（基準は josetsuki_STRATEGY.md 8-2）"
+    "YSF1070T横動画 Day4：YouTube Studio（表示回数・視聴回数・検索からの視聴・0:30の維持率）、GA4 ysf1070t_long"
    ]
   },
   {
    "date": "2026-11-23",
    "items": [
-    "SXC1070H横動画 Day7：同上、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）",
-    "YT660横動画 Day4：同上、GA4 yt660_long"
+    "SXC1070H横動画 Day7：同上、GA4 sxc1070h_long（基準は josetsuki_STRATEGY.md 8-2）"
    ]
   },
   {
    "date": "2026-11-24",
    "items": [
-    "YSF1070T横動画 Day7 ＋ 機種横動画5本の全体判定（合計セッション3未満なら量産をやめる）（基準は josetsuki_STRATEGY.md 8-2）"
+    "SXC1070H横動画 Day7（11/23分）"
    ]
   },
   {
    "date": "2026-11-25",
    "items": [
-    "複数AI審査5回目（おすすめ6台 /entry/2026/11/04/093129）の成果判定：Search Console・Bing（11/4〜11/24）で「おすすめ」を含むクエリの行、GA4探索「店へのクリック」（同期間）をスクショで送る"
+    "複数AI審査5回目（おすすめ6台 /entry/2026/11/04/093129）の成果判定：Search Console・Bing（11/4〜11/24）で「おすすめ」を含むクエリの行、GA4探索「店へのクリック」（同期間）をスクショで送る",
+    "YSF1070T横動画 Day7 ＋ 機種横動画（YSF860・SXC1070H・YSF1070T）の全体判定：GA4で3本のキャンペーン合計が3未満なら、機種横動画は終了して記事に集中（基準は josetsuki_STRATEGY.md 8-2）"
    ]
   }
  ]
